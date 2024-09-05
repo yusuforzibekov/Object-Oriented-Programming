@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/POM/4.0.0">
+
+    <!-- Model Version -->
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Coordinates -->
+    <groupId>com.vanderlinde</groupId>
+    <artifactId>awesome-plan</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <!-- Developers -->
+    <developers>
+        <developer>
+            <id>johnnyboy</id>
+            <name>John Marston</name>
+            <email>johnmarston@linde.der</email>
+            <organization>Van der Linde</organization>
+            <timezone>-7</timezone>
+        </developer>
+        <developer>
+            <id>marshall</id>
+            <name>Leigh Johnson</name>
+            <email>leighjohnson@armadillo.com</email>
+            <organization>Town of Armadillo</organization>
+            <timezone>-7</timezone>
+        </developer>
+    </developers>
+
+    <!-- Dependencies -->
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.7.2</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.12.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+</project>
