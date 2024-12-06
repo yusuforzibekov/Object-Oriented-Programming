@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8224" from="Mrs. Gene Johns" type="DDS">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Consectetur hic dolorem sed. Molestias delectus esse quo. Quidem libero unde. Animi voluptatum et in qui rerum qui. Nostrum earum omnis voluptas deleniti. Dolores in illum tenetur similique officiis. Et dolorum quia facere nisi dolor eos. Autem saepe provident aliquid.</body>
+        <recipients>
+            <recipient name="Hulda Reilly"/>
+            <recipient name="Foster Olson"/>
+            <recipient name="Janine Mraz PhD"/>
+            <recipient name="Dr. Leland Moen"/>
+            <recipient name="Oma Thompson"/>
+            <recipient name="Val Jaskolski"/>
+            <recipient name="Miss Napoleon Kunze"/>
+            <recipient name="Maxima Abbott"/>
+            <recipient name="Mrs. Latonia Homenick"/>
+            <recipient name="Isabell Bogisich"/>
+            <recipient name="Guadalupe Grady"/>
+            <recipient name="Gala O'Kon V"/>
+        </recipients>
+    </message>
+    <message id="7662" from="Garret Schuppe" type="DDS">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Voluptatem voluptas voluptas quisquam cupiditate consequatur reprehenderit ea. Et velit voluptates sit commodi natus ratione expedita. Quia magnam sit id eum eos. Et aliquid molestiae facere. Sit est magni. Autem est rerum eius. Et quae consectetur.</body>
+        <recipients>
+            <recipient name="Katheleen Purdy"/>
+            <recipient name="Dominic Hilpert"/>
+            <recipient name="Mr. Jacquiline Weber"/>
+            <recipient name="Dr. Zachery Johns"/>
+            <recipient name="Minerva Borer IV"/>
+            <recipient name="Mrs. Melissa Balistreri"/>
+            <recipient name="Aron Littel"/>
+            <recipient name="Merlin Ebert I"/>
+            <recipient name="Mindi Corwin"/>
+            <recipient name="Whitney Yost"/>
+            <recipient name="Syreeta Klein V"/>
+        </recipients>
+    </message>
+</ns2:messages>

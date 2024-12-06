@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9039" from="Dian Schroeder III" type="SMTP">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Eum harum autem facere non aut. Et odit corrupti voluptatum quia explicabo. Tempore enim ratione sunt similique pariatur placeat aut. Aut consequatur adipisci quod reiciendis repellendus dolorem. Voluptatem laudantium et asperiores. Velit id minima mollitia ex aut non deserunt. Eum dolorem suscipit.</body>
+        <recipients>
+            <recipient name="Mrs. Jamaal Sipes"/>
+            <recipient name="Joe Doyle"/>
+            <recipient name="May Kunze"/>
+            <recipient name="Marlena Hoppe"/>
+            <recipient name="Bo Cartwright"/>
+            <recipient name="Kandy Hoppe"/>
+            <recipient name="Dane Blick"/>
+            <recipient name="Dr. Isaias Kertzmann"/>
+            <recipient name="Augustus Jaskolski"/>
+        </recipients>
+        <mentions>
+            <mention name="Kecia Franecki"/>
+            <mention name="Janean McDermott"/>
+            <mention name="Lashawna Kuhic"/>
+            <mention name="Janette Ortiz"/>
+        </mentions>
+    </message>
+</ns2:messages>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1667" from="Sidney Halvorson" type="SMS">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Iste ut modi facilis repudiandae quos. Vitae velit porro voluptates reprehenderit ducimus et ut. Eum delectus nihil cupiditate voluptates provident veritatis. Et suscipit architecto. Error libero nobis quis. Architecto voluptas sit incidunt sint quidem eaque. Facilis delectus vel officia. Possimus aliquid quaerat delectus voluptatibus.</body>
+        <recipients>
+            <recipient name="Jospeh Littel"/>
+            <recipient name="Mrs. Kimberely Cormier"/>
+            <recipient name="Denna Anderson III"/>
+            <recipient name="Dot Kirlin"/>
+            <recipient name="Catherin Nitzsche DDS"/>
+            <recipient name="Benny Torp III"/>
+            <recipient name="Clifton Schneider"/>
+            <recipient name="Rafaela Weber"/>
+            <recipient name="Vallie Sawayn"/>
+            <recipient name="Claudette Friesen"/>
+            <recipient name="Bradly Hansen"/>
+            <recipient name="Miss Shirley Morar"/>
+            <recipient name="Ernie O'Kon PhD"/>
+            <recipient name="Sonny Dibbert DDS"/>
+        </recipients>
+    </message>
+    <message id="1828" from="Gabrielle Lubowitz" type="MQTT">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Et omnis commodi nihil ab. Delectus molestiae placeat. Autem beatae itaque suscipit. Consequatur earum tempora nemo atque quia asperiores. Omnis ut distinctio cum doloremque voluptatem aperiam. Rerum rerum molestiae temporibus rerum. Voluptatem mollitia reiciendis culpa labore asperiores aliquid optio. Sed vero praesentium aut saepe aut voluptatem.</body>
+        <recipients>
+            <recipient name="Miss Tyron Hoeger"/>
+            <recipient name="Herschel Weissnat"/>
+            <recipient name="Doria Kling"/>
+            <recipient name="Rodney Koepp"/>
+            <recipient name="Cleora Jerde DDS"/>
+            <recipient name="Ralph Thompson"/>
+            <recipient name="Mr. Karima Lindgren"/>
+            <recipient name="Don Graham"/>
+            <recipient name="Rolf Cartwright"/>
+            <recipient name="Mrs. Adalberto Langosh"/>
+        </recipients>
+    </message>
+    <message id="8955" from="Damon Gutmann V" type="SMS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Saepe ea fugit aperiam quis et sunt quia. Et et a aut consequatur natus. Est dicta dolore illum nam. Nihil occaecati corporis eos voluptatem aliquam adipisci deserunt. Distinctio aut labore ab nihil quasi sunt. Et commodi tenetur sunt fugiat eum consequuntur. Ut corrupti dolore quae. Possimus reiciendis magni. Soluta temporibus ipsam amet.</body>
+        <recipients>
+            <recipient name="Jessi Batz"/>
+            <recipient name="Freda Predovic"/>
+            <recipient name="Erasmo Turner"/>
+            <recipient name="Beckie Schamberger"/>
+            <recipient name="Larry Skiles"/>
+        </recipients>
+        <mentions>
+            <mention name="Caroll Reichel"/>
+            <mention name="Junior Zulauf"/>
+            <mention name="Mauricio Bernhard"/>
+        </mentions>
+    </message>
+    <message id="1810" from="Gail Gusikowski" type="MMS">
+        <heading>You really think I ought to swear?</heading>
+        <body>Quis voluptatem possimus praesentium est eos. Facilis vel autem sapiente doloremque neque corporis delectus. Ea quia qui tempora cupiditate. Odio corporis quos est eligendi omnis. Libero eligendi quibusdam eius repellendus sint voluptas. Ut doloremque rerum placeat. Inventore sed illo voluptatem quas ut.</body>
+        <recipients>
+            <recipient name="Dong Stehr"/>
+            <recipient name="Augustus Kerluke"/>
+            <recipient name="Harlan Schinner"/>
+            <recipient name="Prince VonRueden"/>
+            <recipient name="Deandrea Hamill"/>
+            <recipient name="Virgie Metz"/>
+            <recipient name="Eugene Tremblay"/>
+            <recipient name="Sol Kassulke"/>
+            <recipient name="Kay Volkman"/>
+            <recipient name="Cyndy Lind"/>
+        </recipients>
+    </message>
+    <message id="8674" from="Harland Sporer" type="DDS">
+        <heading>See you in about 30 years.</heading>
+        <body>Harum officiis unde. Molestiae maxime cum. Ea ex voluptas. Modi dolorem quia ullam doloribus dolores commodi necessitatibus. Sint cumque ut labore dolor est nostrum et. Dolores sed laudantium quis et dicta. Suscipit et similique. Est aspernatur dolores temporibus similique.</body>
+        <recipients>
+            <recipient name="Miss Jani Hermann"/>
+            <recipient name="China Farrell"/>
+            <recipient name="Sonny Morar"/>
+            <recipient name="Kiana Goodwin DDS"/>
+            <recipient name="Miss Marcellus Hirthe"/>
+            <recipient name="Lon Donnelly"/>
+            <recipient name="Manuel Dickens"/>
+            <recipient name="Manuel Schmitt"/>
+            <recipient name="Mickey Cormier"/>
+            <recipient name="Norris Reichel"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Ignacio Kovacek"/>
+        </mentions>
+    </message>
+</ns2:messages>

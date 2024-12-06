@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3808" from="Merrie Macejkovic" type="DDS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Sint amet est. Aut voluptatibus et sint ut est. Quo animi fuga ipsa labore saepe voluptatibus ut. Necessitatibus nulla omnis est fuga illum perspiciatis. Eligendi rerum atque ea sed sed ad. Esse ullam exercitationem. Illo saepe expedita. Est nam est aperiam consequuntur. Provident facilis aliquid hic qui est itaque maxime.</body>
+        <recipients>
+            <recipient name="Mrs. Sanjuana Nicolas"/>
+            <recipient name="Dr. Racquel Rowe"/>
+            <recipient name="Ms. Reuben Schneider"/>
+        </recipients>
+    </message>
+    <message id="9450" from="Sal Heathcote" type="IRC">
+        <heading>He laid out Biff in one punch. I didn't know he had it in him. He's never stood up to Biff in his life!</heading>
+        <body>Voluptatem molestiae facilis consequuntur enim accusamus. Labore rerum nemo. Quod esse magnam et libero placeat. Laboriosam occaecati eos. Est est similique qui. Cumque neque quasi qui temporibus doloremque corrupti et. Quo tenetur fugit excepturi. Nihil aut a magni laborum rerum cum.</body>
+        <recipients>
+            <recipient name="Tyler Carter"/>
+            <recipient name="Herman Kertzmann DDS"/>
+            <recipient name="Emery Veum"/>
+            <recipient name="Eden Little"/>
+            <recipient name="Williemae Doyle MD"/>
+        </recipients>
+        <mentions>
+            <mention name="Ingeborg Stiedemann DVM"/>
+        </mentions>
+    </message>
+    <message id="6901" from="Abel Fay" type="SMTP">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Maiores quis ea accusamus quaerat. Unde doloribus quod molestiae ratione aut et dolorem. Ducimus qui fuga magnam molestiae quisquam id. Esse quia voluptates reiciendis. Quasi quas rerum. Animi neque id ut. Vel est sit.</body>
+        <recipients>
+            <recipient name="Daisey Krajcik"/>
+            <recipient name="Donnell Gulgowski"/>
+            <recipient name="Clarinda Stamm"/>
+            <recipient name="Mario Mohr"/>
+            <recipient name="Edgar Donnelly"/>
+            <recipient name="Myrta Rutherford"/>
+            <recipient name="Frank Kunde DVM"/>
+        </recipients>
+    </message>
+    <message id="5836" from="Carolynn Crist" type="MMS">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>Laudantium ut laudantium pariatur quo placeat iste. Quos occaecati officiis voluptatum et non est. Velit officiis placeat ipsam in doloremque omnis totam. Vel vel laboriosam expedita cupiditate quaerat deserunt. Et totam nisi iure fugiat ea facilis quod. Odio ullam consequatur quidem porro quam iste enim. Recusandae qui animi similique quibusdam.</body>
+        <recipients>
+            <recipient name="Yuonne Mann"/>
+            <recipient name="Joelle Walker"/>
+            <recipient name="Tracy Hammes"/>
+            <recipient name="Lesley Adams MD"/>
+            <recipient name="Grady Jacobson"/>
+            <recipient name="Ms. Hubert Bailey"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Henrietta Sporer"/>
+            <mention name="Andre Champlin"/>
+        </mentions>
+    </message>
+    <message id="9861" from="Jerry Block" type="MMS">
+        <heading>Hey, you! Get your damn hands off her!</heading>
+        <body>Veritatis corporis voluptate qui vitae numquam. Dolorem nobis molestias nostrum ut necessitatibus ut. Culpa odio aperiam dolores et sint voluptatem architecto. Exercitationem cupiditate in tenetur magni at ullam adipisci. Et ab et amet consequatur dolores illo voluptatum. Et iusto est velit sint sed amet ab. Perferendis aut et. Facere accusantium eaque blanditiis molestiae sunt nesciunt magni. Aut sed dolorum dolores saepe sequi.</body>
+        <recipients>
+            <recipient name="Wilson Mitchell"/>
+            <recipient name="Nicole Rosenbaum II"/>
+            <recipient name="Laronda Pouros"/>
+            <recipient name="Livia Bartell"/>
+            <recipient name="Grady Becker"/>
+            <recipient name="Joetta Orn Jr."/>
+            <recipient name="Scott Braun"/>
+            <recipient name="Wilda Langosh"/>
+            <recipient name="Fernando Harris"/>
+            <recipient name="Elijah Bradtke"/>
+            <recipient name="Arthur Herzog III"/>
+            <recipient name="Donita Dach"/>
+            <recipient name="Karan Bernhard"/>
+        </recipients>
+    </message>
+    <message id="2565" from="Dedra West" type="SMTP">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Soluta numquam atque inventore. Enim magni totam qui voluptatem consectetur reprehenderit. Sequi harum voluptates unde quia sit voluptas. Optio soluta sapiente quis accusamus est veritatis. Est consectetur debitis sint ut vero. Nam repudiandae nisi non eum natus mollitia deserunt. Deserunt voluptates omnis mollitia quia aut quod.</body>
+        <recipients>
+            <recipient name="Selina Durgan"/>
+            <recipient name="Jannette Homenick Jr."/>
+            <recipient name="Nola Funk"/>
+            <recipient name="Mrs. Dean McKenzie"/>
+            <recipient name="Harrison Harvey IV"/>
+            <recipient name="Miquel Terry"/>
+            <recipient name="Eduardo Abbott"/>
+            <recipient name="Adela Mante"/>
+            <recipient name="Dr. Shona Rutherford"/>
+        </recipients>
+    </message>
+    <message id="1214" from="Shirley Mann" type="XMPP">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Qui aliquam magni qui quibusdam. Nam dolorem fuga. Corrupti quaerat in explicabo maxime optio qui inventore. Perspiciatis eos nemo quo voluptatem. Voluptatem consectetur occaecati assumenda ut eaque. Voluptatibus et sed harum officiis. Sapiente debitis numquam. Doloremque magni et eos. Dolores ea iste iure reprehenderit laboriosam.</body>
+        <recipients>
+            <recipient name="Luis Schroeder"/>
+            <recipient name="Barrett Raynor II"/>
+            <recipient name="Terrie Turcotte"/>
+            <recipient name="Mrs. Morgan Gulgowski"/>
+        </recipients>
+    </message>
+</ns2:messages>

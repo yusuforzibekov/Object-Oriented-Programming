@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="123" from="Stephaine Murazik" type="MMS">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Asperiores beatae quis. Consequuntur adipisci ab aut quidem. Et soluta quam repellendus voluptate qui. Repudiandae voluptatibus laboriosam esse accusamus libero. Possimus enim nihil laborum. Accusamus velit perspiciatis maxime qui. Et consectetur officiis consequuntur corporis.</body>
+        <recipients>
+            <recipient name="Dorian Beatty"/>
+            <recipient name="Freeda Kemmer"/>
+            <recipient name="Stephenie Torphy III"/>
+            <recipient name="Dr. Tomiko Gorczany"/>
+            <recipient name="Mr. Jeramy Kohler"/>
+            <recipient name="Ned Hessel"/>
+            <recipient name="Shameka Tillman"/>
+            <recipient name="Ms. Jess Kovacek"/>
+        </recipients>
+        <mentions>
+            <mention name="Mrs. Yael Blanda"/>
+        </mentions>
+    </message>
+    <message id="265" from="Jean Shanahan" type="MMS">
+        <heading>I finally invent something that works!</heading>
+        <body>Officiis ipsa voluptate ipsam molestiae saepe. Aut repellendus molestias tempore at consequatur nam. Est ex officia dicta maiores. Iusto officia et. Sunt facere occaecati fugiat vitae sit dolores. Voluptates expedita voluptatem nemo illum ea reprehenderit sit. Maxime autem minus voluptatem nemo iusto. Consequatur magnam consequatur libero non quis dolore quis.</body>
+        <recipients>
+            <recipient name="Ona Windler IV"/>
+            <recipient name="Carlos Lehner"/>
+            <recipient name="Mr. Bo Reichert"/>
+            <recipient name="Mr. Aida Wiegand"/>
+            <recipient name="Roy Nader"/>
+            <recipient name="Sherie Rippin"/>
+            <recipient name="Tracey Bergstrom"/>
+            <recipient name="Dr. Rodger Willms"/>
+            <recipient name="Herb Ward DDS"/>
+            <recipient name="Mrs. Francisco Braun"/>
+            <recipient name="Donn Mills"/>
+            <recipient name="Ms. Stephan Hettinger"/>
+            <recipient name="Lee Hoeger Sr."/>
+        </recipients>
+    </message>
+    <message id="2493" from="Wilfred Luettgen I" type="MMS">
+        <heading>See you in about 30 years.</heading>
+        <body>Facere maiores aperiam ipsam reprehenderit. Rerum et quibusdam qui fugit illum incidunt. Praesentium quam incidunt quas vitae itaque officiis dolorem. Est quae error id. Ullam incidunt magnam modi corporis distinctio et. Eius omnis vel ea quisquam quo. Ipsa aspernatur sint dolorum hic est nobis temporibus. Voluptas molestiae non nulla incidunt eos animi autem. Id quisquam perferendis error quia.</body>
+        <recipients>
+            <recipient name="Mrs. Avery Dicki"/>
+            <recipient name="Angelika Murphy IV"/>
+            <recipient name="Anissa Parker"/>
+            <recipient name="Vilma Lehner"/>
+            <recipient name="Ashly Franecki"/>
+            <recipient name="Tiffiny Heller"/>
+            <recipient name="Mrs. Jacinto Rau"/>
+            <recipient name="Fausto Huels"/>
+        </recipients>
+    </message>
+    <message id="7190" from="Laurette Macejkovic" type="MMS">
+        <heading>Weight has nothing to do with it.</heading>
+        <body>Id molestiae corrupti nisi enim omnis assumenda. Vitae non maiores accusantium enim corporis suscipit libero. Animi quis adipisci eos dolore debitis dolores. Ut laborum ut et mollitia quis hic consequuntur. Soluta rerum id. Ipsam recusandae dolorem quibusdam quasi provident sit possimus. Omnis repellendus error ut. Quam in iste tempore sit autem iste corrupti. Et omnis eum.</body>
+        <recipients>
+            <recipient name="Miss Gertude Roberts"/>
+            <recipient name="Fredia Spinka"/>
+            <recipient name="Shelby Hegmann"/>
+            <recipient name="Catarina Schaefer DVM"/>
+            <recipient name="Dante Zieme Sr."/>
+            <recipient name="Dr. Carlos Leannon"/>
+            <recipient name="Benjamin Harris"/>
+            <recipient name="Napoleon Dickens MD"/>
+            <recipient name="Columbus McClure"/>
+            <recipient name="Hyo Kub"/>
+            <recipient name="Horace Runolfsdottir"/>
+            <recipient name="Emogene Rath"/>
+            <recipient name="Rae Dibbert"/>
+        </recipients>
+        <mentions>
+            <mention name="Genna Gaylord"/>
+            <mention name="Jan Wisozk"/>
+        </mentions>
+    </message>
+    <message id="3350" from="Jewell Simonis" type="MMS">
+        <heading>I finally invent something that works!</heading>
+        <body>Id et quod ea sunt ea. Illum nihil nulla minus maiores velit quod accusantium. Est dolor autem quia. Qui labore quibusdam mollitia. Tempore omnis provident et rerum explicabo id. Dolorem voluptatum tenetur voluptate adipisci. Delectus occaecati porro rerum sed ut similique. Eum consequatur magni voluptatem nisi.</body>
+        <recipients>
+            <recipient name="Mozelle White"/>
+            <recipient name="Christian Wisoky"/>
+            <recipient name="Cristopher Kuphal PhD"/>
+            <recipient name="Regina Morissette"/>
+            <recipient name="Marquita Schowalter"/>
+            <recipient name="Miss Imogene Marvin"/>
+            <recipient name="Felipe Walter"/>
+            <recipient name="Wendie Donnelly"/>
+            <recipient name="Arlette Heaney"/>
+            <recipient name="Dong Reinger"/>
+        </recipients>
+    </message>
+    <message id="5725" from="Britteny Hyatt" type="MMS">
+        <heading>What happens to us in the future? Do we become assholes or something?</heading>
+        <body>Vel et occaecati id temporibus eos reprehenderit. Nostrum enim harum nam voluptatem impedit voluptatibus. Qui repellat eum qui ut debitis voluptatem in. Minima nam ab ipsam consequatur quia quod cum. Id dicta a qui et dolorum quidem quia. Quis quod dolores quae asperiores ut culpa est. Tenetur vel est enim molestiae qui impedit. Fugiat temporibus laborum ad.</body>
+        <recipients>
+            <recipient name="Buena Lemke"/>
+            <recipient name="Harris Mann III"/>
+            <recipient name="Grace Gulgowski"/>
+            <recipient name="Damon Smith"/>
+            <recipient name="Linh Heidenreich"/>
+            <recipient name="Buddy Kassulke"/>
+            <recipient name="Stewart Leuschke Jr."/>
+            <recipient name="Dewitt Mante"/>
+            <recipient name="Broderick Schneider"/>
+        </recipients>
+        <mentions>
+            <mention name="Jerica Osinski DDS"/>
+            <mention name="Valery Heathcote"/>
+            <mention name="Charlie Aufderhar"/>
+            <mention name="Edgardo Brakus"/>
+        </mentions>
+    </message>
+</ns2:messages>

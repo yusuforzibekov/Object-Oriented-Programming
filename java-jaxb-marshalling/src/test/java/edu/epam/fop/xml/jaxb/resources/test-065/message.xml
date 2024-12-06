@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2013" from="Jae Brekke" type="RCS">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Laboriosam necessitatibus praesentium voluptas facere quae quidem. Iusto ipsum sed sit ut velit ad. Optio pariatur placeat sit neque in voluptates. Qui reiciendis similique omnis nostrum et. Reprehenderit dolore quis. Non nobis dolorem. Aut voluptate culpa doloremque perferendis quia enim.</body>
+        <recipients>
+            <recipient name="Harry Veum DDS"/>
+            <recipient name="Takisha Rogahn"/>
+            <recipient name="Christa Davis"/>
+            <recipient name="Miss Maximo Shields"/>
+            <recipient name="Jonell O'Conner II"/>
+            <recipient name="Dr. Scottie Oberbrunner"/>
+            <recipient name="Refugio Lynch"/>
+            <recipient name="Steffanie Gleichner"/>
+            <recipient name="Kim Cartwright"/>
+            <recipient name="Dorsey Nikolaus"/>
+            <recipient name="Zane Hand"/>
+            <recipient name="Hipolito Farrell"/>
+            <recipient name="Ms. Bennett Cummings"/>
+        </recipients>
+        <mentions>
+            <mention name="Lester Turcotte"/>
+            <mention name="Marshall Beahan"/>
+            <mention name="Violeta Oberbrunner"/>
+            <mention name="Eugene Kozey MD"/>
+        </mentions>
+    </message>
+    <message id="9524" from="German Stehr PhD" type="MMS">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Molestiae facilis tenetur eum quos dolore. Totam dolore nihil. Omnis voluptatem consequatur eaque optio eum saepe. Sit non vel magni. Fugiat id asperiores. Saepe dolor ipsam occaecati voluptatem. Temporibus exercitationem est reiciendis sed rerum. Autem amet quibusdam molestias.</body>
+        <recipients>
+            <recipient name="Brigid Sauer"/>
+            <recipient name="Mrs. Ellena Satterfield"/>
+            <recipient name="Ivana Lebsack"/>
+            <recipient name="Lyle Ortiz"/>
+            <recipient name="Kirstin King"/>
+            <recipient name="Annalee Reynolds"/>
+            <recipient name="Gennie Kutch"/>
+            <recipient name="Alonso Lindgren MD"/>
+            <recipient name="Geraldine McLaughlin"/>
+        </recipients>
+    </message>
+    <message id="1483" from="Brent Johnston" type="MQTT">
+        <heading>I finally invent something that works!</heading>
+        <body>Reprehenderit molestiae vel aut laboriosam. Odio et dolor illum. Vel quia molestiae autem fugiat. Et aspernatur hic fuga excepturi laboriosam. Quis nihil quia mollitia deleniti vitae maiores. Praesentium voluptatum ut tenetur similique cum exercitationem omnis. Voluptatem sed perspiciatis quasi dolores est qui.</body>
+        <recipients>
+            <recipient name="Mrs. Liana Kihn"/>
+            <recipient name="Francis Hamill"/>
+            <recipient name="Quentin Powlowski"/>
+            <recipient name="Ken Nienow I"/>
+            <recipient name="Wendy Reichel"/>
+            <recipient name="Mrs. Brady Paucek"/>
+            <recipient name="Percy Lueilwitz"/>
+            <recipient name="Valentin McGlynn"/>
+            <recipient name="Joline Hirthe"/>
+            <recipient name="Emerson Moen"/>
+            <recipient name="Alfonzo Christiansen DVM"/>
+            <recipient name="Dr. Leda Franecki"/>
+            <recipient name="Mac Streich"/>
+        </recipients>
+    </message>
+</ns2:messages>

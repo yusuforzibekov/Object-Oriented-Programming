@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4291" from="Guillermo Mante" type="XMPP">
+        <heading>Scram, McFly. I'm cuttin' in.</heading>
+        <body>At totam quas velit necessitatibus libero. Illum porro iste assumenda aliquam atque omnis. Dolore minus quos explicabo et dolorem magni corrupti. Reiciendis saepe possimus aut eum nam assumenda. Qui assumenda ut et molestias vitae. Et praesentium facilis necessitatibus nesciunt tempora blanditiis. Dolores praesentium labore et ratione ea voluptatibus in.</body>
+        <recipients>
+            <recipient name="Mr. Kenyetta Reichert"/>
+            <recipient name="Geraldine Ernser"/>
+            <recipient name="Millard Johnston"/>
+            <recipient name="Susann Labadie"/>
+            <recipient name="Collin Kuhlman"/>
+            <recipient name="Miss Aleshia Towne"/>
+        </recipients>
+        <mentions>
+            <mention name="Thanh Sanford"/>
+            <mention name="Dr. Jeannetta Erdman"/>
+        </mentions>
+    </message>
+    <message id="6786" from="Ferne Weber" type="SMTP">
+        <heading>It's gonna be really hard waiting 30 years before I can talk to you about everything that's happened in the past few days. I'm really gonna miss you, Marty.</heading>
+        <body>Repellat dolor accusantium minima reiciendis. Rerum dolor aut. Quisquam similique odit. Eum nobis rerum sequi et sequi molestiae eaque. Dolore odio dolor est qui aspernatur. Aut voluptatem tempora aliquam rerum inventore aut. Eum assumenda autem repellat commodi. Non neque earum natus mollitia minima eos porro. Beatae magni reprehenderit molestiae illum.</body>
+        <recipients>
+            <recipient name="Hayden Champlin"/>
+            <recipient name="Mrs. Jenelle Wilderman"/>
+            <recipient name="Odis Crooks PhD"/>
+            <recipient name="Cherish Hudson"/>
+            <recipient name="Mrs. Donita Weimann"/>
+            <recipient name="Ms. Chara Sporer"/>
+            <recipient name="Sasha McCullough"/>
+            <recipient name="Love Kiehn"/>
+            <recipient name="Bryon Gorczany"/>
+            <recipient name="Charlott Cassin"/>
+            <recipient name="Rashad Mayert"/>
+            <recipient name="Chance Kuhn DDS"/>
+            <recipient name="Odell Raynor MD"/>
+            <recipient name="Rhett Emmerich"/>
+            <recipient name="Leila Nader"/>
+        </recipients>
+        <mentions>
+            <mention name="Colin Heathcote Jr."/>
+            <mention name="Glynis Hirthe"/>
+        </mentions>
+    </message>
+    <message id="2869" from="Iris Miller V" type="IRC">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Magnam sit quos id in sit autem. Ipsum eos ratione id quaerat non asperiores modi. Omnis assumenda vitae nisi qui nihil. Aspernatur quia sint quis vero quibusdam. Et quaerat dicta. Nesciunt ea rerum est voluptate omnis consequatur. Nihil fugiat aperiam. Aut dolores odit error sed. Quae architecto voluptas ab.</body>
+        <recipients>
+            <recipient name="Alfredia Schultz"/>
+            <recipient name="Geraldo Krajcik"/>
+            <recipient name="Shirl Renner DDS"/>
+            <recipient name="Andrea Wiegand"/>
+            <recipient name="Taylor Gusikowski"/>
+            <recipient name="Tien Luettgen"/>
+            <recipient name="Miss Angelo Jenkins"/>
+            <recipient name="Nan Treutel"/>
+            <recipient name="Marinda Roberts"/>
+            <recipient name="Gabriel Hartmann I"/>
+        </recipients>
+        <mentions>
+            <mention name="Desmond Ullrich"/>
+            <mention name="Valentin DuBuque"/>
+            <mention name="Myriam Heller V"/>
+        </mentions>
+    </message>
+</ns2:messages>

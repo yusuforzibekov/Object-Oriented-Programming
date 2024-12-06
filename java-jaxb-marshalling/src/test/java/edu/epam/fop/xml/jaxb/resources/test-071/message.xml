@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="846" from="Leonora Jacobson" type="MMS">
+        <heading>Oh, that's Joey. He cries when we take him out so we just leave him in there.</heading>
+        <body>Praesentium perferendis rerum ipsa dolores. Ad repellendus dolorum provident. Quibusdam cumque error alias. Consectetur debitis voluptatem et. Neque voluptas asperiores fugit sed dolore repellendus delectus. In impedit incidunt est atque quis reprehenderit. Omnis magni voluptatem incidunt saepe perferendis nulla dolor. Officiis sequi animi quae cum non.</body>
+        <recipients>
+            <recipient name="Devorah McLaughlin DDS"/>
+            <recipient name="Jay Heller II"/>
+            <recipient name="Art D'Amore"/>
+            <recipient name="Lewis Parker DVM"/>
+            <recipient name="Rosalind Huels II"/>
+            <recipient name="Tess Pfeffer"/>
+            <recipient name="Miss Tyra Schimmel"/>
+            <recipient name="Rod Gaylord"/>
+            <recipient name="Galen Gerlach"/>
+            <recipient name="Rana Adams"/>
+            <recipient name="Katia Collier"/>
+            <recipient name="Brent Wilkinson PhD"/>
+            <recipient name="Shamika Oberbrunner"/>
+            <recipient name="Mr. Mathilda Tremblay"/>
+            <recipient name="Mrs. Len Schuster"/>
+        </recipients>
+    </message>
+</ns2:messages>

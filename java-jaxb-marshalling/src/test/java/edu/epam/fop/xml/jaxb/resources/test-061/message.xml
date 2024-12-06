@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4324" from="Malka Green" type="SMS">
+        <heading>Save the clock tower!</heading>
+        <body>Similique sed necessitatibus accusantium. Est eos inventore ratione esse. Animi explicabo consequatur rerum non voluptas. Cumque occaecati et optio quaerat et alias inventore. Tempore aut quod dolores quia nemo. Quae quaerat et doloribus. Aliquid aspernatur excepturi esse necessitatibus facere dolore. Praesentium eius distinctio deleniti rerum tempore occaecati. Ut sapiente praesentium ipsam eveniet ratione.</body>
+        <recipients>
+            <recipient name="Christen Towne"/>
+            <recipient name="Dr. Ezequiel Pfannerstill"/>
+            <recipient name="Olen Mueller Sr."/>
+            <recipient name="Daniel Kub"/>
+            <recipient name="Garry Kovacek"/>
+            <recipient name="Carmelita Runolfsdottir"/>
+            <recipient name="Ingeborg Ward V"/>
+            <recipient name="Stevie Toy"/>
+            <recipient name="Zackary Deckow"/>
+            <recipient name="Jarrod Jakubowski PhD"/>
+            <recipient name="Dani DuBuque"/>
+            <recipient name="Ross Wolf"/>
+            <recipient name="Tyrone Funk Sr."/>
+            <recipient name="Paris Leffler"/>
+        </recipients>
+        <mentions>
+            <mention name="Andre Wyman"/>
+            <mention name="Miss Letha Mraz"/>
+        </mentions>
+    </message>
+    <message id="514" from="Petrina Kautzer Jr." type="SMS">
+        <heading>Save the clock tower!</heading>
+        <body>Tempora magni quasi quia necessitatibus. Et voluptas non. Voluptates sit quia architecto dignissimos consequatur dolorem. Facere architecto cum molestias atque accusamus. Amet molestiae enim et minima quaerat culpa. Aspernatur culpa enim quod magni quis. Consequuntur architecto unde ut. Tempora adipisci ex aut provident ratione omnis. Nihil doloremque eligendi aut consectetur veniam beatae.</body>
+        <recipients>
+            <recipient name="Ryan Kuphal"/>
+            <recipient name="Rolf Dickens"/>
+            <recipient name="Luigi Herman"/>
+            <recipient name="Shanita Keeling"/>
+            <recipient name="Leigh Green"/>
+            <recipient name="Saran Ward"/>
+            <recipient name="Ms. Marcelina Witting"/>
+            <recipient name="Ryan Emard"/>
+            <recipient name="Abel Boehm II"/>
+            <recipient name="Clayton Kemmer I"/>
+            <recipient name="Mervin Ondricka DDS"/>
+        </recipients>
+    </message>
+</ns2:messages>

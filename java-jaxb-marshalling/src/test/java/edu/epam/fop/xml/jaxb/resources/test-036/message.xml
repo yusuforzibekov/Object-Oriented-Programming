@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8510" from="Ms. Robt Little" type="SMS">
+        <heading>Dear Dr. Brown. On the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty.</heading>
+        <body>Alias molestias eum. Esse qui delectus enim aut dignissimos sequi sequi. Laborum sit fuga. Quia neque aspernatur voluptatem sit officia. Harum accusantium maiores fuga. Doloribus quis quaerat. Debitis aut cupiditate excepturi esse explicabo magnam.</body>
+        <recipients>
+            <recipient name="Gaylord Towne"/>
+            <recipient name="Valentine Ward"/>
+            <recipient name="Raul Hickle"/>
+            <recipient name="Dino Windler V"/>
+            <recipient name="Mrs. Roy Hayes"/>
+            <recipient name="Doloris Lind"/>
+            <recipient name="Margart Jakubowski"/>
+        </recipients>
+        <mentions>
+            <mention name="Ms. Christinia Jenkins"/>
+            <mention name="Mr. Krystina Pagac"/>
+            <mention name="Mr. Marcus Pollich"/>
+            <mention name="Demetrice Wiza"/>
+        </mentions>
+    </message>
+    <message id="5960" from="Lala Hamill" type="XMPP">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Ipsam ut dolor. Ut autem quia nulla eligendi molestiae saepe. Atque magnam id. Distinctio quia quia eligendi accusantium ipsum atque. Dicta rerum sit qui aperiam autem qui provident. Ut consequuntur quis est repellat. Consectetur enim consequatur quia optio. Magni quos aliquid. Mollitia modi odio quia nesciunt odio.</body>
+        <recipients>
+            <recipient name="Kanisha Hilpert DVM"/>
+            <recipient name="Danelle Schimmel PhD"/>
+            <recipient name="Estell Jakubowski"/>
+            <recipient name="Earnest Grant MD"/>
+            <recipient name="Wonda Borer"/>
+            <recipient name="Chong Lubowitz"/>
+            <recipient name="Bob Farrell"/>
+        </recipients>
+        <mentions>
+            <mention name="Toby Bailey"/>
+            <mention name="Tyrell Williamson"/>
+            <mention name="Tona Runte"/>
+        </mentions>
+    </message>
+    <message id="6667" from="Denna Goodwin" type="IRC">
+        <heading>What-what the hell is a gigawatt?</heading>
+        <body>Autem ex voluptatum. Amet impedit dolore. Ullam eum numquam magni itaque nisi qui. Vel qui aperiam eum ut molestias. Et quia repellendus enim. Labore eligendi aut nisi aperiam et quia aut. Ipsam adipisci omnis vitae magnam saepe inventore. Numquam et et voluptas molestias ut.</body>
+        <recipients>
+            <recipient name="Arnold Reynolds"/>
+            <recipient name="Neda Blick"/>
+            <recipient name="Otto Reinger"/>
+            <recipient name="Dario Wolff"/>
+            <recipient name="Jenny Cole"/>
+            <recipient name="Eve Walsh"/>
+            <recipient name="Nathaniel Terry"/>
+        </recipients>
+        <mentions>
+            <mention name="Dalton Cole"/>
+            <mention name="Adalberto Mohr"/>
+        </mentions>
+    </message>
+    <message id="1440" from="Ferdinand Ziemann" type="SMTP">
+        <heading>Let's see if you bastards can do 90.</heading>
+        <body>Rerum dolores repudiandae qui. Ullam officia sit corrupti a est eum ut. Consequatur quam et est. Sint rem expedita ratione modi quaerat. Molestiae iste expedita rerum esse nulla. Voluptatem repudiandae consequatur ea in et sit. At nostrum sunt sint eligendi.</body>
+        <recipients>
+            <recipient name="Ms. Felice Thompson"/>
+            <recipient name="Buck Hoeger"/>
+            <recipient name="Clarence Ziemann"/>
+        </recipients>
+        <mentions>
+            <mention name="Karyl Auer"/>
+            <mention name="Lyman Lang"/>
+            <mention name="Addie Bosco"/>
+        </mentions>
+    </message>
+</ns2:messages>

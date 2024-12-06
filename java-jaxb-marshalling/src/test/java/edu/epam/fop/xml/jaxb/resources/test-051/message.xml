@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1706" from="Jena Kutch Sr." type="SMTP">
+        <heading>Stand tall, boy. Have some respect for yourself. Don't you know, if you let people walk over you now, they'll be walking over you for the rest of your life. Look at me. You think I'm gonna spend the rest of my life in this slop house?</heading>
+        <body>Odit qui libero. Id sint ipsam vitae qui. Asperiores quod velit suscipit. Quo quos sunt. Eius quas repellat maiores molestias. Eos enim impedit occaecati. Doloribus et debitis ipsum.</body>
+        <recipients>
+            <recipient name="Emerson Gerhold"/>
+            <recipient name="Madge Cremin"/>
+            <recipient name="Dewayne Kertzmann"/>
+            <recipient name="Tonya Kautzer"/>
+            <recipient name="Alfred Lueilwitz"/>
+            <recipient name="Amado Dare PhD"/>
+            <recipient name="Delois West"/>
+            <recipient name="Fay Weissnat"/>
+            <recipient name="Gena Ortiz"/>
+            <recipient name="Dr. Palmer Jakubowski"/>
+            <recipient name="Angel Marquardt"/>
+            <recipient name="Ms. Glynda Schroeder"/>
+            <recipient name="Eugena Frami PhD"/>
+        </recipients>
+    </message>
+</ns2:messages>

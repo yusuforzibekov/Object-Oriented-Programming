@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7620" from="Ms. Allen Walker" type="SMS">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Laborum optio voluptatem. Architecto provident exercitationem veritatis rerum dolores. Molestias id adipisci dolor. Sequi reprehenderit unde eos. Laborum at tempora dolor est. Iste laboriosam fuga distinctio eos. Neque consequatur odit voluptatem saepe.</body>
+        <recipients>
+            <recipient name="Ms. Soledad Romaguera"/>
+            <recipient name="Leonel Rohan"/>
+            <recipient name="Willetta Parisian Jr."/>
+            <recipient name="Ms. Dorine Altenwerth"/>
+            <recipient name="Israel Wiza"/>
+            <recipient name="Noemi Kirlin"/>
+        </recipients>
+    </message>
+</ns2:messages>

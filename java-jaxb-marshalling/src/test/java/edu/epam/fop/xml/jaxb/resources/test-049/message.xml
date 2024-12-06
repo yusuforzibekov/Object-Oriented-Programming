@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8401" from="Samuel Hills DDS" type="MMS">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Numquam reiciendis molestiae minima fuga. Cum et molestias dolorem ipsa. Esse tempora quasi occaecati consequatur asperiores vitae. Consequuntur repudiandae omnis quibusdam qui et numquam. Aut corporis reprehenderit sed dolorem placeat cumque occaecati. Sit architecto ea sit. Magni similique praesentium labore explicabo rerum et. Saepe aperiam molestiae et corporis et. Dolores omnis ipsa.</body>
+        <recipients>
+            <recipient name="Gilberto Dibbert"/>
+            <recipient name="Alexander Kshlerin"/>
+            <recipient name="Mr. Joe Mills"/>
+            <recipient name="Reggie Ziemann"/>
+            <recipient name="Ms. Melodee Dicki"/>
+            <recipient name="Dino Hintz"/>
+            <recipient name="Adriana Blanda"/>
+            <recipient name="Analisa Hintz"/>
+        </recipients>
+    </message>
+    <message id="2311" from="Marcus Towne" type="MMS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Nam natus fugiat ratione accusamus. Quis modi exercitationem id omnis dolorum dolorum. Ipsa omnis aut. Id vitae in nisi libero ut. Dolor id a sunt dolor ut tenetur. Labore qui ut quo. Et in ad suscipit consequatur earum.</body>
+        <recipients>
+            <recipient name="Marcelle Hettinger"/>
+            <recipient name="Laurene Lesch Jr."/>
+            <recipient name="Eufemia Bergstrom"/>
+            <recipient name="Meda Russel"/>
+            <recipient name="Jean Hilpert MD"/>
+            <recipient name="Logan Luettgen"/>
+            <recipient name="Lulu Waelchi"/>
+            <recipient name="Francene Leuschke"/>
+            <recipient name="Harvey Lang"/>
+            <recipient name="Ms. Tomoko Jones"/>
+            <recipient name="Ray Braun I"/>
+            <recipient name="Rafael Boehm"/>
+        </recipients>
+    </message>
+</ns2:messages>

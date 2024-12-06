@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7320" from="Agustin Prohaska Jr." type="SMS">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Officiis eum ipsum quis sed accusamus. Culpa sunt velit est et porro. Commodi id est earum. Quisquam sunt reprehenderit. Cum ex magni. Rerum et provident reprehenderit iure enim. Neque maxime blanditiis ratione doloremque quas fugit. Rerum est molestiae officia. Sint ullam illo voluptatibus.</body>
+        <recipients>
+            <recipient name="Theron Ratke I"/>
+            <recipient name="Eulah Schultz"/>
+            <recipient name="Dan Konopelski"/>
+            <recipient name="Natacha Kub"/>
+            <recipient name="Mavis Blick"/>
+            <recipient name="Dr. Lewis Beier"/>
+            <recipient name="Hue Hyatt"/>
+            <recipient name="Mr. Julieann Koepp"/>
+            <recipient name="Miss Jeanine Rice"/>
+            <recipient name="Sergio Feest"/>
+            <recipient name="Herlinda Crooks Jr."/>
+            <recipient name="Adolph Reynolds"/>
+            <recipient name="Florinda Gerhold"/>
+            <recipient name="Vaughn Windler IV"/>
+        </recipients>
+    </message>
+    <message id="9947" from="Alba Howell" type="SMS">
+        <heading>Now, Biff, I want to make sure that we get two coats of wax this time, not just one.</heading>
+        <body>Aut quasi sed ut. Officiis quo minus. Ipsam perspiciatis exercitationem perferendis. Dolorem et minima quam nam sunt. Iste qui dolores qui sed ut quam. Dolores modi omnis quam temporibus minima. Doloribus ratione velit maiores suscipit ea aperiam. Facere sint veniam sapiente odio et et autem. Modi dignissimos voluptates ut esse accusantium.</body>
+        <recipients>
+            <recipient name="Mr. Tyree Brekke"/>
+            <recipient name="Cristen Roob"/>
+            <recipient name="Chauncey Veum"/>
+            <recipient name="Eugene Turner DVM"/>
+            <recipient name="Vinnie Baumbach"/>
+            <recipient name="Trula Tremblay"/>
+            <recipient name="Erik Bauch"/>
+            <recipient name="Bryon Wiegand II"/>
+        </recipients>
+    </message>
+    <message id="7028" from="Roni Price" type="SMS">
+        <heading>You really think I ought to swear?</heading>
+        <body>Eligendi voluptatem impedit quos. Ex cumque voluptatem nam dicta delectus aperiam. Eveniet eos veniam eius eos. Dicta et enim excepturi est. Facere sequi dolor omnis. Placeat minima vitae totam natus fuga. Aut eum voluptatem et corporis.</body>
+        <recipients>
+            <recipient name="Crystal Mertz"/>
+            <recipient name="Deangelo Schroeder"/>
+            <recipient name="Evelyn Leannon"/>
+        </recipients>
+    </message>
+</ns2:messages>

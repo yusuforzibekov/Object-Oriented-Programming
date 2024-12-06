@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2955" from="Norman Cartwright" type="SMS">
+        <heading>If you put your mind to it, you can accomplish anything.</heading>
+        <body>Excepturi sed aliquid quisquam magni voluptas molestias. Recusandae occaecati esse quis autem. Qui recusandae sit placeat similique. Quasi est illum asperiores quod iste perferendis et. Ut molestiae et veritatis pariatur tenetur esse et. Velit est unde quod. Eligendi id ut eum. Laudantium iusto aut porro ducimus est iusto veniam.</body>
+        <recipients>
+            <recipient name="Patty Lindgren"/>
+            <recipient name="Nanette Haag"/>
+            <recipient name="Leonia Hoeger"/>
+            <recipient name="Nena Carroll"/>
+            <recipient name="Bennett Howell"/>
+            <recipient name="Noel Thompson"/>
+            <recipient name="Clarita Feil"/>
+            <recipient name="Elbert Douglas"/>
+            <recipient name="Karlene Beahan"/>
+            <recipient name="Merrie Robel DVM"/>
+        </recipients>
+    </message>
+    <message id="8285" from="Leonarda Deckow" type="RCS">
+        <heading>Great Scott!</heading>
+        <body>Illo provident expedita vel mollitia. Aliquam sit porro sit quia incidunt quasi. Quas nostrum corrupti. Et itaque perspiciatis et. Eum sed eum nobis soluta eos vel. Voluptatem vel et voluptas exercitationem sint modi nisi. Quia laudantium vel ut molestiae odit eligendi labore. Vero temporibus ut. Deserunt voluptate placeat aspernatur in.</body>
+        <recipients>
+            <recipient name="Marilu Witting"/>
+            <recipient name="Bianca Walter V"/>
+            <recipient name="Juana Goodwin"/>
+        </recipients>
+        <mentions>
+            <mention name="Sunny Grant"/>
+            <mention name="Leopoldo Runolfsdottir MD"/>
+            <mention name="Mr. Eryn Kihn"/>
+            <mention name="Evia Reynolds"/>
+        </mentions>
+    </message>
+    <message id="5682" from="Shona Effertz" type="XMPP">
+        <heading>Great Scott!</heading>
+        <body>Neque fugit similique. Impedit asperiores consequuntur reprehenderit assumenda. Eaque impedit est voluptatem voluptatem. Nesciunt accusamus consequuntur qui ratione. Atque officiis quisquam tenetur rerum excepturi. Ut et perferendis beatae. Ipsum debitis sint.</body>
+        <recipients>
+            <recipient name="Tyree Reilly"/>
+            <recipient name="Mr. Jonathan Larkin"/>
+            <recipient name="Donnetta Bartell"/>
+            <recipient name="Mr. Florentino Langosh"/>
+            <recipient name="Kemberly Hudson DDS"/>
+            <recipient name="Devon Parisian"/>
+            <recipient name="Mrs. Paul Hackett"/>
+            <recipient name="Genaro Torp"/>
+            <recipient name="Alejandro Fadel PhD"/>
+            <recipient name="Arianne Powlowski II"/>
+            <recipient name="Marcus Langosh"/>
+            <recipient name="Danial Swift"/>
+            <recipient name="Bruno Langosh"/>
+        </recipients>
+    </message>
+    <message id="5269" from="Micheal Goodwin DDS" type="DDS">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Sunt at alias et in exercitationem eveniet ipsa. Odit aliquam et. Totam cumque sed beatae praesentium quo. Et placeat quo fugiat. Est et consequatur velit asperiores. Cum numquam rerum voluptatem quia. Voluptas asperiores sunt soluta labore praesentium. Tenetur quis ut nobis ad exercitationem ab dignissimos.</body>
+        <recipients>
+            <recipient name="Corey Johnston III"/>
+            <recipient name="Ms. Suzette Parisian"/>
+            <recipient name="Christina Abernathy V"/>
+            <recipient name="Allegra Labadie"/>
+            <recipient name="Samatha Grant"/>
+            <recipient name="Krissy Raynor"/>
+            <recipient name="Miss Kevin Leannon"/>
+            <recipient name="Gary Nitzsche MD"/>
+            <recipient name="Jeanetta Lynch Jr."/>
+            <recipient name="Meryl Nader II"/>
+            <recipient name="Kyle Kris"/>
+            <recipient name="Mr. Pamala Wiza"/>
+            <recipient name="Shu Wunsch"/>
+            <recipient name="Dr. Madeleine Lebsack"/>
+        </recipients>
+    </message>
+</ns2:messages>

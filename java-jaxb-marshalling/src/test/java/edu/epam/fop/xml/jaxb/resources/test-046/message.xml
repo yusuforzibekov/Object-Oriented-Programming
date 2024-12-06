@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4296" from="Ester Leannon" type="MMS">
+        <heading>If you put your mind to it, you can accomplish anything.</heading>
+        <body>Et et qui necessitatibus aut. Occaecati earum dolore. Enim et hic enim. Sed voluptatibus perferendis voluptatum et aliquid. Inventore et enim ut eius. Odit dolorem ducimus. Fuga nihil voluptatum. Nostrum voluptatem cum soluta ad hic soluta. Voluptatem sed iste minima est dolore nam.</body>
+        <recipients>
+            <recipient name="Dr. Gabriel Sanford"/>
+            <recipient name="Young Zieme"/>
+            <recipient name="Mr. Bernie Mohr"/>
+            <recipient name="Donita Rutherford"/>
+            <recipient name="Alphonso Marks PhD"/>
+            <recipient name="Jake Upton Jr."/>
+        </recipients>
+    </message>
+    <message id="6976" from="Isidro Robel II" type="MMS">
+        <heading>Biff. What a character. Always trying to get away with something. I've had to stay on top of Biff ever since high school. Although, if it wasn't for him...</heading>
+        <body>Fugiat voluptatem sit voluptatem. Similique tempora nam quos ea pariatur commodi ut. A omnis incidunt et consequatur sint aspernatur. Quo fuga beatae amet labore doloremque autem. Atque rerum quos repellendus cum praesentium debitis. Aut beatae fuga sit dolor corrupti ut at. Quis porro quia sapiente est.</body>
+        <recipients>
+            <recipient name="Freda Wilkinson"/>
+            <recipient name="Ms. Richie Jacobson"/>
+            <recipient name="Ms. Kerry Rowe"/>
+            <recipient name="Mrs. Tora Heaney"/>
+        </recipients>
+    </message>
+    <message id="7596" from="Jesus Maggio" type="MMS">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Eos et saepe aspernatur illo voluptatem vero. Ut quidem autem quia. Consequuntur nihil corporis suscipit ut facilis consequatur. Quasi voluptas consequatur eos. Est mollitia repellat harum sed eos quia officia. Nihil amet aliquam sint sit deleniti praesentium. Repudiandae sit molestiae consequatur.</body>
+        <recipients>
+            <recipient name="Lenna Berge"/>
+            <recipient name="Jason Johnston"/>
+            <recipient name="Dede Dooley"/>
+            <recipient name="Kathey Bailey"/>
+            <recipient name="Tyree Weimann Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Bobbie Labadie"/>
+        </mentions>
+    </message>
+</ns2:messages>

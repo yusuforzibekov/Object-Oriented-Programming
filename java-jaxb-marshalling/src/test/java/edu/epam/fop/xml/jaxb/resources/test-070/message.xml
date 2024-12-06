@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4211" from="Breanne Pagac Jr." type="AMQP">
+        <heading>You caused 300 bucks damage to my car, you son of a bitch. And I'm gonna take it out of your ass.</heading>
+        <body>Sit voluptatum optio ut. Animi et possimus dolorum veritatis ratione quis dolore. Quidem sequi veritatis eos. Quaerat suscipit reprehenderit. Earum iusto sit accusamus nemo reiciendis quidem non. Ullam harum dolores. Quia et quidem alias. Est alias tempora. Aut totam et et sed ut.</body>
+        <recipients>
+            <recipient name="Margurite Tromp"/>
+            <recipient name="Mr. Lon Sanford"/>
+            <recipient name="Darwin Beatty"/>
+            <recipient name="Rosia Graham"/>
+            <recipient name="Weldon Mante"/>
+            <recipient name="Dr. Nicolasa Schowalter"/>
+            <recipient name="Genoveva Legros"/>
+            <recipient name="Miss Izola Schumm"/>
+        </recipients>
+    </message>
+    <message id="6796" from="Gladys Zboncak" type="SMS">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Dolor sunt in ipsam inventore voluptas dolorem expedita. Aperiam quam incidunt. Soluta deleniti sapiente ipsa incidunt eos dolor. Vero blanditiis nihil autem. Similique nihil iusto velit nam. Voluptatem perferendis facilis. Id doloribus cum deserunt.</body>
+        <recipients>
+            <recipient name="Leo Boyer"/>
+            <recipient name="Miss Bill Kautzer"/>
+            <recipient name="Ms. Aurelio Legros"/>
+        </recipients>
+        <mentions>
+            <mention name="Anton Hartmann"/>
+            <mention name="Jorge Fahey DDS"/>
+        </mentions>
+    </message>
+    <message id="2336" from="Dr. Graig Braun" type="MQTT">
+        <heading>Save the clock tower!</heading>
+        <body>Animi fugit eligendi optio cumque. Dolore sed quisquam corrupti. Totam assumenda voluptatem nam voluptatem iste eos dolorem. Minima et ratione. Numquam commodi nobis. Culpa in maiores et debitis provident sunt. Et labore magnam suscipit qui deserunt. Doloremque cum assumenda eligendi libero eum quam velit. Et nulla aut animi.</body>
+        <recipients>
+            <recipient name="Santo Toy"/>
+            <recipient name="Joannie Stark"/>
+            <recipient name="Jenee Watsica"/>
+            <recipient name="Nella Stamm"/>
+            <recipient name="Roosevelt Kutch"/>
+            <recipient name="Ammie Deckow"/>
+            <recipient name="Mr. Gil Kirlin"/>
+            <recipient name="Keith Dach"/>
+            <recipient name="Joan Botsford"/>
+            <recipient name="Fernando Okuneva"/>
+            <recipient name="Darell Stroman IV"/>
+            <recipient name="Mrs. Maxwell Williamson"/>
+            <recipient name="Neil Bednar"/>
+            <recipient name="Mr. Regena Herzog"/>
+            <recipient name="Micah Rath"/>
+        </recipients>
+    </message>
+</ns2:messages>

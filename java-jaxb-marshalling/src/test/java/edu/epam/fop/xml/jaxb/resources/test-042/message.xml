@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6519" from="Fanny Hartmann I" type="SMS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Consequatur sed vel laboriosam amet dicta tenetur est. Amet autem impedit et ea est. Et in facere quidem et ea quod. Sed nihil qui distinctio reprehenderit fuga quis. Et qui harum et et autem. Neque nostrum explicabo doloremque corrupti. Pariatur eaque rerum quis voluptatibus. Corrupti nostrum sed dolor veniam.</body>
+        <recipients>
+            <recipient name="Edward Harris"/>
+            <recipient name="Avery Mraz DDS"/>
+            <recipient name="Chanell Hansen"/>
+            <recipient name="Alaina Osinski"/>
+            <recipient name="Despina Greenfelder"/>
+        </recipients>
+    </message>
+</ns2:messages>
