@@ -1,0 +1,14 @@
+[
+  {
+    "id": 7469,
+    "name": "Enormous Plastic Plate",
+    "supplyDate": "2020-12-26T23:52:15.252969157",
+    "price": 360,
+    "totalCount": 17700,
+    "barCode": "EAN133607340948954",
+    "vendor": {
+      "id": 9699,
+      "name": "Adidas"
+    }
+  }
+]

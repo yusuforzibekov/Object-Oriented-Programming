@@ -1,0 +1,62 @@
+[
+  {
+    "id": 967,
+    "name": "Intelligent Linen Knife",
+    "supplyDate": "2005-08-20T19:05:27.866148921",
+    "price": 630,
+    "totalCount": 186100,
+    "barCode": "EAN134332204553669",
+    "vendor": {
+      "id": 5621,
+      "name": "Sony"
+    }
+  },
+  {
+    "id": 7324,
+    "name": "Synergistic Silk Coat",
+    "supplyDate": "1971-07-09T07:16:12.766263583",
+    "price": 1420,
+    "totalCount": 748400,
+    "barCode": "EAN139775886785068",
+    "vendor": {
+      "id": 6491,
+      "name": "LG"
+    }
+  },
+  {
+    "id": 8682,
+    "name": "Incredible Steel Clock",
+    "supplyDate": "1980-02-11T03:59:03.531096076",
+    "price": 770,
+    "totalCount": 608000,
+    "barCode": "EAN134055981035608",
+    "vendor": {
+      "id": 572,
+      "name": "Samsung"
+    }
+  },
+  {
+    "id": 5880,
+    "name": "Intelligent Silk Plate",
+    "supplyDate": "1985-10-25T08:16:10.644195172",
+    "price": 1180,
+    "totalCount": 512200,
+    "barCode": "EAN131622518493250",
+    "vendor": {
+      "id": 8105,
+      "name": "Nikon"
+    }
+  },
+  {
+    "id": 7969,
+    "name": "Practical Linen Gloves",
+    "supplyDate": "2015-05-25T17:47:41.696751408",
+    "price": 245,
+    "totalCount": 570800,
+    "barCode": "EAN133253438331636",
+    "vendor": {
+      "id": 9598,
+      "name": "GoPro"
+    }
+  }
+]
