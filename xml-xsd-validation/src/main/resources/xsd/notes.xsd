@@ -1,0 +1,28 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.epam.tc.com/note"
+    xmlns:tc="http://www.epam.tc.com/note">
+
+    <xs:element name="notes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="note" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="to" type="tc:customType"/>
+                            <xs:element name="from" type="xs:string"/>
+                            <xs:element name="heading" type="xs:string"/>
+                            <xs:element name="body" type="xs:string"/>
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:integer" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:simpleType name="customType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z]"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

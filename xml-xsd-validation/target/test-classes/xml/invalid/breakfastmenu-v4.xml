@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast-menu xmlns="http://www.example.org/breakfastmenu"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/breakfastmenu breakfastmenu.xsd">
+</breakfast-menu>

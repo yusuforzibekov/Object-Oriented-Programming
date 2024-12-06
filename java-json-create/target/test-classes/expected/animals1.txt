@@ -1,0 +1,13 @@
+[ {
+  "name" : "Vasya",
+  "age" : 2,
+  "breed" : "MAINE_COON"
+}, {
+  "name" : "Kesha",
+  "age" : 5,
+  "breed" : "BULLDOG"
+}, {
+  "name" : "Anatoliy",
+  "age" : 10,
+  "breed" : "BRITISH"
+} ]

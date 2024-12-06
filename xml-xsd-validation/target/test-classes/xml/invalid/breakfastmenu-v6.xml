@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast-menu xmlns="http://www.example.org/breakfastmenu"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/breakfastmenu breakfastmenu.xsd">
+	<food id="a1">
+		<name>Бельгийские Вафли</name>
+		<price>$5.95</price>
+		<description>
+			две известных Бельгийских Вафли с обилием настоящего
+			кленового сиропа
+		</description>
+		<calories>650</calories>
+	</food>
+	
+	<food id="2">
+		<name>Бельгийские Вафли с Земляникой</name>
+		<price>$7.95</price>
+		<description>
+			легкие Бельгийские вафли с земляникой, покрытые взбитыми
+			сливками
+		</description>
+		<calories>900</calories>
+	</food>
+	
+	<food id="a3">
+		<name>Бельгийские Вафли с Ягодами</name>
+		<price>$8.95</price>
+		<description>
+			легкие Бельгийские вафли с различными свежими ягодами,
+			покрытые взбитыми сливками
+		</description>
+		<calories>900</calories>
+	</food>
+	
+	<food id="a4">
+		<name>Французский Тост</name>
+		<price>$4.50</price>
+		<description>
+			толстые куски, сделанные из кусочков домашнего хлеба из
+			опары
+		</description>
+		<calories>600</calories>
+	</food>
+	
+	<food id="a5">
+		<name>Домашний Завтрак</name>
+		<price>$6.95</price>
+		<description>
+			пара яиц, бекон или колбаса, тост, и наши всегда
+			популярные картофельные	оладьи
+		</description>
+		<calories>950</calories>
+	</food>
+</breakfast-menu>

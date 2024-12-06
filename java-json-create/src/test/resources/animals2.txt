@@ -1,0 +1,15 @@
+[ {
+  "name" : "Bob",
+  "breed" : "SIBERIAN"
+}, {
+  "name" : "Petya",
+  "age" : 2
+}, {
+  "name" : "Jack",
+  "age" : 8,
+  "breed" : "MALAMUTE"
+}, {
+  "name" : "Jackie",
+  "age" : 15,
+  "breed" : "HUSKY"
+} ]
