@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2010" from="Dinah Bernier" type="RCS">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Sit ut vel sint et quidem quisquam. Cumque veritatis rem omnis. Repellat rerum natus officia dolor ducimus. Repudiandae doloremque quaerat fuga voluptatem similique aut consequatur. Ducimus molestiae doloremque autem commodi. Fuga est omnis nostrum libero omnis. Cumque omnis asperiores earum ut itaque. Reprehenderit asperiores et. Est dolor deserunt est nisi fugiat dolore.</body>
+        <recipients>
+            <recipient name="Garrett Boyle"/>
+            <recipient name="Patti Altenwerth"/>
+            <recipient name="Ernestina Armstrong"/>
+            <recipient name="Hang Stroman"/>
+            <recipient name="Darren Jakubowski"/>
+            <recipient name="Lamar Howell"/>
+            <recipient name="Edison West"/>
+            <recipient name="Chet Purdy"/>
+            <recipient name="Justin Ledner"/>
+            <recipient name="Thi Wehner"/>
+            <recipient name="Miss Herma Hirthe"/>
+            <recipient name="Stevie Kling"/>
+        </recipients>
+        <mentions>
+            <mention name="Usha Welch DVM"/>
+            <mention name="Carlena Bins MD"/>
+        </mentions>
+    </message>
+    <message id="897" from="Scott Kuhic" type="SMS">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Blanditiis beatae sunt placeat aliquid ipsam tempore et. Repellat repellendus veritatis magni corrupti. Voluptatibus rerum qui. Excepturi optio qui et reiciendis. Itaque est dolor maiores exercitationem eum nulla. Fuga ipsam quia dolorem non. Quasi odit dolorum. Eligendi sequi laudantium in aliquid commodi voluptas.</body>
+        <recipients>
+            <recipient name="Hank Bode DVM"/>
+            <recipient name="Clinton Ullrich"/>
+            <recipient name="Shawnna Bergnaum"/>
+            <recipient name="Miss Jeramy Schneider"/>
+            <recipient name="Melissa Kuphal"/>
+            <recipient name="Mellissa Mosciski V"/>
+            <recipient name="Dwight Denesik PhD"/>
+            <recipient name="Mario Kuphal"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Stewart Kohler"/>
+            <mention name="Miyoko Bashirian"/>
+        </mentions>
+    </message>
+    <message id="6166" from="Lasonya Koepp Jr." type="SMS">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Est explicabo nihil veritatis dolores. Quos in dicta iste qui occaecati praesentium fuga. Optio veniam deserunt velit explicabo. Dolor qui fugit placeat suscipit amet dolorem. Tenetur necessitatibus qui autem. Reiciendis enim perspiciatis amet dolores nostrum laudantium iste. Ut qui laudantium amet. Nam eaque excepturi. Enim provident ea error totam impedit.</body>
+        <recipients>
+            <recipient name="Kendrick Mante"/>
+            <recipient name="Jan Bartell"/>
+            <recipient name="Yolando Rosenbaum"/>
+            <recipient name="Deeann Morar"/>
+            <recipient name="Lyle Moen"/>
+            <recipient name="Pat Witting"/>
+            <recipient name="Vannessa Ondricka"/>
+            <recipient name="Bobbie Heaney III"/>
+            <recipient name="Kum Cassin"/>
+            <recipient name="Keira Hettinger"/>
+            <recipient name="Mauro Hane"/>
+            <recipient name="Lee Kirlin"/>
+            <recipient name="Irwin Crooks"/>
+            <recipient name="Coretta Heathcote"/>
+        </recipients>
+        <mentions>
+            <mention name="Samual Bartoletti"/>
+            <mention name="Al Lang"/>
+        </mentions>
+    </message>
+    <message id="4789" from="Ms. Lino Ernser" type="AMQP">
+        <heading>What-what the hell is a gigawatt?</heading>
+        <body>Ut asperiores dolore reprehenderit dignissimos ea labore voluptatem. Est eos maxime veniam quia. Necessitatibus facere sequi dolorem. Quis sed consequatur. Rerum molestiae ex consequuntur magnam repellat. Exercitationem rem voluptatem nemo laborum mollitia. Et nobis et qui. Corporis nobis quis occaecati eos reprehenderit atque voluptatem.</body>
+        <recipients>
+            <recipient name="Lela Considine"/>
+            <recipient name="Vincenzo Cummerata DVM"/>
+            <recipient name="Verena Reinger DVM"/>
+            <recipient name="Shanon Baumbach"/>
+            <recipient name="Lincoln Bashirian V"/>
+            <recipient name="Luella Kris"/>
+            <recipient name="Elvie Luettgen"/>
+            <recipient name="Penni Goyette Sr."/>
+            <recipient name="Mitzie Parisian"/>
+            <recipient name="Damion Gerhold"/>
+            <recipient name="Sharice McCullough"/>
+        </recipients>
+        <mentions>
+            <mention name="Valentine Stehr"/>
+            <mention name="Mrs. Saul Hyatt"/>
+            <mention name="Sean Lebsack"/>
+        </mentions>
+    </message>
+    <message id="1607" from="Felton Mohr" type="SMTP">
+        <heading>Take that, you mutated son of a bitch!</heading>
+        <body>Unde fugiat in itaque qui minima. Qui est ipsam illum aut quia. Tenetur aperiam rerum quis. Ut ea suscipit. Fugit saepe temporibus. Excepturi hic at dolorum porro repellat repellat ut. Dolore illum et. Totam consequuntur quia.</body>
+        <recipients>
+            <recipient name="Roosevelt Cruickshank"/>
+            <recipient name="Janine Lindgren"/>
+            <recipient name="Cassie Von Jr."/>
+            <recipient name="Alfonzo Harris"/>
+            <recipient name="Demetrius Swift"/>
+            <recipient name="Rivka Krajcik"/>
+            <recipient name="Marva Dickens IV"/>
+            <recipient name="Delorse Schowalter"/>
+            <recipient name="Dr. Twanda Lehner"/>
+            <recipient name="Harland Olson IV"/>
+            <recipient name="Antwan Gottlieb"/>
+            <recipient name="Earle Kerluke III"/>
+            <recipient name="Mrs. Terica Rogahn"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Bernard Trantow"/>
+            <mention name="Carlton Jakubowski"/>
+        </mentions>
+    </message>
+    <message id="4853" from="Erin Sawayn" type="SMS">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Omnis est fuga accusantium. Nobis voluptatem consequatur officiis molestias. Quae fuga expedita eaque consequatur sapiente. Voluptatum nihil repellat officiis et saepe accusamus. Ut et odio. Tempora ut et sit quasi rerum. Nam at harum dolore molestiae itaque. Molestiae ut quae dolor. Illum voluptatem ipsam quibusdam delectus.</body>
+        <recipients>
+            <recipient name="Byron Donnelly"/>
+            <recipient name="Miss Chandra Frami"/>
+            <recipient name="Randal Batz Jr."/>
+            <recipient name="Osvaldo Jaskolski"/>
+            <recipient name="Loida Heathcote"/>
+            <recipient name="Ethan Gutmann"/>
+            <recipient name="Machelle Towne"/>
+            <recipient name="Jasper Schuppe V"/>
+            <recipient name="Mrs. Anisha Hettinger"/>
+            <recipient name="Charmaine O'Connell"/>
+            <recipient name="Dr. Olin Kilback"/>
+            <recipient name="Wilfred Smitham"/>
+            <recipient name="Elvia Stracke"/>
+            <recipient name="Altha Stark"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Elias McCullough"/>
+        </mentions>
+    </message>
+</ns2:messages>

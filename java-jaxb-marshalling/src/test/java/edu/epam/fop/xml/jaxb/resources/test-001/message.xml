@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9099" from="Rashad Kilback" type="MMS">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Minus in eos ut mollitia ut deserunt. Ducimus consequatur animi ut deleniti atque. Ipsum eos enim consequatur. Ducimus rerum ea voluptatem ut omnis culpa. Ipsam asperiores ratione et amet voluptates iusto. Veritatis omnis officia non dolorem distinctio aliquam. Cupiditate consequuntur vitae maxime. Cumque est dolores esse et rerum animi et.</body>
+        <recipients>
+            <recipient name="Ian Anderson"/>
+            <recipient name="Sharmaine Skiles"/>
+            <recipient name="Dr. Marylynn Rohan"/>
+            <recipient name="Mr. Shyla Hoppe"/>
+            <recipient name="Mr. Penni Lehner"/>
+            <recipient name="Alex Huels Sr."/>
+            <recipient name="Jayna Olson"/>
+            <recipient name="Dennise Macejkovic"/>
+            <recipient name="Myrtle Breitenberg"/>
+        </recipients>
+        <mentions>
+            <mention name="Danette Kuhlman"/>
+            <mention name="Donovan Towne"/>
+            <mention name="Cherlyn Mayert V"/>
+        </mentions>
+    </message>
+</ns2:messages>

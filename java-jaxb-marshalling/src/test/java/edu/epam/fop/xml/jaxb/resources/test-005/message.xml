@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8996" from="Clint Franecki" type="SMS">
+        <heading>And one for you, McFly; I believe that makes four in a row. Now let me give you a nickel's worth of free advice, young man. This so-called Dr. Brown is dangerous. He's a real nutcase. You hang around with him, you're gonna end up in big trouble.</heading>
+        <body>Magni molestias impedit sequi et. Eum ut aut esse expedita rerum. Ducimus quia aliquam aut qui nemo. Tenetur tempore placeat qui voluptatibus vel excepturi sit. Voluptatum labore veritatis. Neque vel non sed voluptatum temporibus iste. Reprehenderit qui laudantium officiis est.</body>
+        <recipients>
+            <recipient name="Alessandra Connelly DVM"/>
+            <recipient name="Harvey Stiedemann PhD"/>
+            <recipient name="Dr. Chung Wisoky"/>
+            <recipient name="Antoine Macejkovic"/>
+            <recipient name="Kurtis Goodwin"/>
+            <recipient name="Shandra Torphy"/>
+            <recipient name="Mr. Kenyatta Schmitt"/>
+            <recipient name="Miss Nigel Upton"/>
+            <recipient name="Bonny Kub"/>
+            <recipient name="Shiela Leuschke"/>
+            <recipient name="Glynis Conn II"/>
+            <recipient name="Lucius Wuckert"/>
+            <recipient name="Roseanne McCullough"/>
+        </recipients>
+    </message>
+    <message id="5104" from="Bob Volkman" type="SMS">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Ipsam vero ratione cumque et. Reiciendis corrupti minima excepturi qui accusamus sequi. Quia minus nemo nostrum velit placeat. Voluptatem non ex fugiat asperiores voluptate. Dolores maxime recusandae. Asperiores et aut omnis sed officia. Qui ut est. Delectus nihil ducimus aspernatur.</body>
+        <recipients>
+            <recipient name="Shaneka Ebert"/>
+            <recipient name="Marya Lehner"/>
+            <recipient name="Garland Predovic DDS"/>
+            <recipient name="Mckenzie Lubowitz"/>
+            <recipient name="Luther Crist"/>
+            <recipient name="Janelle Windler"/>
+            <recipient name="Kelvin Gerhold"/>
+            <recipient name="Cary Wunsch"/>
+            <recipient name="Ms. Jenelle Hills"/>
+            <recipient name="Joanna Torphy"/>
+            <recipient name="Victoria Fisher"/>
+        </recipients>
+    </message>
+</ns2:messages>

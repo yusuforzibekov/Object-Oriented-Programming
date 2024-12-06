@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1082" from="Carolina Grimes IV" type="SMTP">
+        <heading>He laid out Biff in one punch. I didn't know he had it in him. He's never stood up to Biff in his life!</heading>
+        <body>Aut totam officiis porro. Libero laborum consequatur officia ratione. Non quos rem explicabo quae quia quasi voluptas. Dolorum nostrum ullam beatae doloremque omnis cupiditate. Eum vel sunt sed architecto nihil. Est inventore maiores velit consequatur. Dolores praesentium ut pariatur magnam. Architecto et veritatis laborum aliquam impedit totam vel. Dolor ipsam deserunt voluptatum officia.</body>
+        <recipients>
+            <recipient name="Alden Dooley I"/>
+            <recipient name="Clifford Welch"/>
+            <recipient name="Lesley O'Kon"/>
+        </recipients>
+    </message>
+    <message id="8154" from="Nakia Stracke DVM" type="SMTP">
+        <heading>Now, Biff, I want to make sure that we get two coats of wax this time, not just one.</heading>
+        <body>Id sed omnis sed vel iusto. Magnam excepturi placeat consequuntur. Mollitia illo aut. Qui neque libero voluptatem ut ut. Alias ut aspernatur ad eum nulla excepturi quisquam. Facilis inventore enim quisquam in voluptates. Quia delectus suscipit.</body>
+        <recipients>
+            <recipient name="Carmen Kunde Sr."/>
+            <recipient name="Nicolas Davis"/>
+            <recipient name="Aurelio Blanda"/>
+            <recipient name="Mr. Leo Runte"/>
+            <recipient name="Alfredo Herman"/>
+            <recipient name="Barrett Ryan DVM"/>
+            <recipient name="Corina Carter PhD"/>
+            <recipient name="Mina Hahn"/>
+            <recipient name="Roseline Effertz"/>
+            <recipient name="Mrs. Jeromy Nitzsche"/>
+            <recipient name="Bob Schumm I"/>
+            <recipient name="Adalberto Daniel"/>
+            <recipient name="James Kirlin"/>
+            <recipient name="Jacklyn Bauch"/>
+            <recipient name="Arnoldo Mayert"/>
+        </recipients>
+    </message>
+</ns2:messages>

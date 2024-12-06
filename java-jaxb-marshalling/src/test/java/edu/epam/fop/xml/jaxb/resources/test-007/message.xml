@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9550" from="Derek McClure" type="SMTP">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Reprehenderit suscipit quia. Consequuntur animi totam fugiat. Voluptatem enim accusantium. Nulla aut saepe aut quos accusamus. Animi veniam vitae voluptatem quam. Aliquid voluptate eaque aut et. Eum omnis cumque vel est. Minima tempore harum totam quidem. Ab accusantium consequatur sed omnis unde adipisci consequatur.</body>
+        <recipients>
+            <recipient name="Ulysses Champlin"/>
+            <recipient name="Rikki Jakubowski"/>
+            <recipient name="Jenell Kerluke"/>
+            <recipient name="Karisa Runte"/>
+            <recipient name="Deon Wolff"/>
+        </recipients>
+    </message>
+    <message id="8742" from="Alden Howe MD" type="SMTP">
+        <heading>No, no, no, no, no, this sucker's electrical, but I need a nuclear reaction to generate the 1.21 gigawatts of electricity I need.</heading>
+        <body>Tenetur aut laboriosam autem. Veritatis itaque et. Non a sit ut ipsum. Cum veniam vero. Culpa necessitatibus maiores. Ut vero quae blanditiis illum. Sapiente reprehenderit harum et hic. Eveniet omnis repudiandae. Et magnam ex quo dolorum voluptatem nesciunt.</body>
+        <recipients>
+            <recipient name="Izola Graham"/>
+            <recipient name="Stevie Stark"/>
+            <recipient name="Mrs. Tera Gerhold"/>
+            <recipient name="Miss Claudine Lynch"/>
+            <recipient name="Miss Codi Bechtelar"/>
+        </recipients>
+        <mentions>
+            <mention name="Quinton Gutmann"/>
+        </mentions>
+    </message>
+</ns2:messages>

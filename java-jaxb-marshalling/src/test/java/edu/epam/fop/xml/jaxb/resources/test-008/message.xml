@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2506" from="Quinn White" type="SMTP">
+        <heading>Stella! Another one of these damn kids jumped in front of my car! Come on out here! Help me take him in the house!</heading>
+        <body>Quia eveniet voluptate ut quis. Qui necessitatibus ullam sunt. Aut quo architecto reprehenderit aliquid maxime. Molestias consequatur sit a dolores quisquam aut. Quis necessitatibus voluptas. Ratione autem et aliquid doloribus fugiat. Et qui quis eos est ut asperiores.</body>
+        <recipients>
+            <recipient name="Albert Vandervort"/>
+            <recipient name="Corrine Watsica"/>
+            <recipient name="Norberto Beer"/>
+            <recipient name="Phyllis Gutkowski"/>
+            <recipient name="Sandy Gutkowski"/>
+            <recipient name="Allen Goldner"/>
+            <recipient name="Austin Wolf"/>
+            <recipient name="Andrea Borer"/>
+            <recipient name="Morton Willms IV"/>
+            <recipient name="Mr. Juliann Mills"/>
+            <recipient name="Christian Bauch"/>
+            <recipient name="Dean Heller"/>
+            <recipient name="Ruth Stiedemann"/>
+            <recipient name="Jama Goyette"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9942" from="Devon Bogisich" type="MMS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Dolorem fuga et ad ea hic delectus eos. Quasi quia maiores dolores. Repellat et nihil. Labore rerum dicta atque. Facilis quia maiores quis suscipit. Exercitationem occaecati perspiciatis. Fugit hic praesentium assumenda.</body>
+        <recipients>
+            <recipient name="Krishna Hegmann"/>
+            <recipient name="Miguel Corkery"/>
+            <recipient name="Israel Erdman II"/>
+            <recipient name="Micah Senger"/>
+            <recipient name="Rosalinda Sawayn"/>
+            <recipient name="Darrin Ruecker"/>
+        </recipients>
+    </message>
+</ns2:messages>

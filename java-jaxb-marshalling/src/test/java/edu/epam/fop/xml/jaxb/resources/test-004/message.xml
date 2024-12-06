@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="127" from="Isa Feest" type="SMTP">
+        <heading>He laid out Biff in one punch. I didn't know he had it in him. He's never stood up to Biff in his life!</heading>
+        <body>Ab aut modi tempore. Quis molestias officiis sed. Deleniti debitis doloribus odit. Consequuntur tenetur est. Sapiente consequuntur consectetur veritatis. Sunt ex aut officia praesentium aspernatur quo. Perferendis quas quos totam hic ut omnis. Eveniet fugit et officiis eum.</body>
+        <recipients>
+            <recipient name="Federico Batz"/>
+            <recipient name="Mitzie Bode Sr."/>
+            <recipient name="Felicidad Braun"/>
+            <recipient name="Amee Gerlach"/>
+            <recipient name="Dr. Seema Kertzmann"/>
+            <recipient name="Lucio Schinner"/>
+            <recipient name="Dr. Aurelio Doyle"/>
+            <recipient name="Mason McClure"/>
+            <recipient name="Sherril Kozey II"/>
+            <recipient name="Lauren Ward"/>
+            <recipient name="Ron Johnson"/>
+            <recipient name="Mr. Elfriede Treutel"/>
+            <recipient name="Annika Kohler"/>
+            <recipient name="Shavonda Little DVM"/>
+        </recipients>
+    </message>
+    <message id="7034" from="Lavern Pacocha" type="SMTP">
+        <heading>He's an absolute dream!</heading>
+        <body>Sit reprehenderit fugit provident tenetur harum. Quia praesentium ex explicabo. Ut quia nemo aut quas cumque suscipit. Distinctio id id provident rerum qui quod asperiores. Qui officiis in. Recusandae dolorem rerum. Praesentium libero et et nisi odit.</body>
+        <recipients>
+            <recipient name="Ms. Eugene Wisoky"/>
+            <recipient name="Shawnee Crooks"/>
+            <recipient name="Ms. Emmett Leannon"/>
+            <recipient name="Dr. Steve Miller"/>
+        </recipients>
+    </message>
+    <message id="6496" from="Britney Schuppe" type="SMTP">
+        <heading>What-what the hell is a gigawatt?</heading>
+        <body>Natus voluptatem quae deserunt. Itaque quis dolor. Consequatur aut at. Ut sint iure. Dolor error id consequatur et nihil. Et perferendis adipisci. Ab pariatur similique est corporis.</body>
+        <recipients>
+            <recipient name="Lindsay Grady"/>
+            <recipient name="Jackqueline Effertz II"/>
+            <recipient name="Edison Lakin III"/>
+            <recipient name="Barrett Bartell"/>
+            <recipient name="Mrs. Rosy Metz"/>
+        </recipients>
+    </message>
+    <message id="2745" from="Waylon Yundt" type="SMTP">
+        <heading>Hey, you! Get your damn hands off her!</heading>
+        <body>Ut inventore deleniti placeat. Magnam quam inventore. Facere mollitia blanditiis adipisci ut. Veritatis ad similique quo aliquid commodi officiis laudantium. Consequatur eligendi ea. Consequatur eos impedit aut maxime distinctio. Labore quia et qui eveniet aspernatur. Quam odit rerum officia quasi est dignissimos.</body>
+        <recipients>
+            <recipient name="Ms. Rodney Reilly"/>
+            <recipient name="Ms. Venus Streich"/>
+            <recipient name="Ezequiel Goyette"/>
+            <recipient name="Abel Padberg"/>
+            <recipient name="Gilbert Boyle I"/>
+            <recipient name="Dwayne Simonis"/>
+            <recipient name="Isaac Rodriguez"/>
+            <recipient name="Pearline Ziemann"/>
+            <recipient name="Lizbeth Christiansen DVM"/>
+            <recipient name="Bethanie Gutkowski"/>
+        </recipients>
+    </message>
+</ns2:messages>

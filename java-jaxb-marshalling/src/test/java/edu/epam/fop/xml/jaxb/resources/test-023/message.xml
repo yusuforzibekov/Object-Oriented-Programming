@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7018" from="Greg Bode" type="RCS">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Ullam quod quia porro. Excepturi dolores alias et. Autem saepe recusandae odio omnis doloribus consequatur. Sint fugiat fuga corporis ea dolor adipisci. Nam rerum ipsum. Voluptas mollitia reprehenderit inventore officiis omnis adipisci. Et consequatur nostrum aut non nostrum. Voluptate at accusantium sapiente architecto.</body>
+        <recipients>
+            <recipient name="Jaime Anderson"/>
+            <recipient name="Williemae Emard DDS"/>
+            <recipient name="Brenton Reichert V"/>
+            <recipient name="Melody Brakus IV"/>
+            <recipient name="Pete Gislason"/>
+            <recipient name="Aldo Hudson"/>
+            <recipient name="Mrs. Lucile Williamson"/>
+            <recipient name="Deadra Feeney IV"/>
+            <recipient name="Mrs. Eloy Mosciski"/>
+            <recipient name="Tierra Glover"/>
+            <recipient name="Joannie Bednar"/>
+            <recipient name="Dr. Azzie Fahey"/>
+        </recipients>
+        <mentions>
+            <mention name="Willena Hauck"/>
+        </mentions>
+    </message>
+    <message id="9189" from="Waylon Rau" type="MMS">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Ut esse ab. Ex dolor minima voluptate corrupti non nostrum in. Repudiandae dignissimos eum ipsam sit dicta iure. Ea quia sed. Quo aut molestiae sint quos eos cum harum. Quos corporis blanditiis dolores omnis ad sit fugit. Quod voluptatem consequuntur illum tempore ducimus modi. Eius perferendis magni eveniet officia. Voluptates dignissimos maiores deleniti et saepe.</body>
+        <recipients>
+            <recipient name="Nicolas Hoppe I"/>
+            <recipient name="Oda Monahan MD"/>
+            <recipient name="Mrs. Bernie McGlynn"/>
+            <recipient name="Daron Bauch"/>
+            <recipient name="Mrs. Kraig Dach"/>
+            <recipient name="Dr. Monnie Schimmel"/>
+            <recipient name="Mrs. Catalina Haley"/>
+            <recipient name="Milagro Cassin"/>
+            <recipient name="Clelia Wiza"/>
+            <recipient name="Lannie Blick"/>
+        </recipients>
+        <mentions>
+            <mention name="Cheyenne Boehm"/>
+            <mention name="Mariel Block"/>
+            <mention name="Ms. Burt Jacobi"/>
+        </mentions>
+    </message>
+    <message id="9650" from="Vasiliki Gislason DDS" type="IRC">
+        <heading>Okay, thank you. That's enough. Hold it now. Hold it. Hold it, fellas. I'm afraid you're just too darn loud. Next, please. Bring in the next group, please.</heading>
+        <body>Quis nihil corporis. Quam minus omnis occaecati fugiat nisi assumenda voluptate. Aut fugit velit. Occaecati incidunt soluta consequuntur nulla amet. Praesentium consectetur itaque sit ut et. Beatae consequatur est. Necessitatibus rem dolorum harum qui sed quibusdam iste. Labore eum repellat perferendis. Qui ab dolorem dolore.</body>
+        <recipients>
+            <recipient name="Lena Kuhn"/>
+            <recipient name="Mitchell Koch"/>
+            <recipient name="Donetta Marks"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Austin Hackett"/>
+        </mentions>
+    </message>
+    <message id="6843" from="Cythia Jast MD" type="SMS">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Similique quod non sint. Commodi et explicabo fugit. Rerum culpa quisquam quam et. Itaque autem quod aspernatur blanditiis. Voluptatem quis quasi ad voluptatum ratione mollitia vero. Dolorum aut iusto dolorum doloribus voluptas asperiores provident. Velit accusamus omnis iure. Dolorem similique impedit est perspiciatis maxime tenetur consequatur.</body>
+        <recipients>
+            <recipient name="Ms. Warner Nitzsche"/>
+            <recipient name="Mr. Tamra Legros"/>
+            <recipient name="Margaret Bergstrom"/>
+        </recipients>
+        <mentions>
+            <mention name="Chung Runolfsson"/>
+        </mentions>
+    </message>
+    <message id="6540" from="Miss Kellie Sauer" type="MMS">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Ipsam vitae voluptate. Autem accusamus aut cumque sapiente incidunt in. Culpa atque illum. Ipsum cumque soluta. Nam nihil et et et ut sunt. Et blanditiis qui temporibus quod quo. Cum sint earum perferendis. Consequuntur dolor autem rerum. Quo vel magnam eius ut eos aut.</body>
+        <recipients>
+            <recipient name="Mrs. Antonetta Upton"/>
+            <recipient name="Song O'Reilly Jr."/>
+            <recipient name="Ardis Hermiston"/>
+            <recipient name="Agnus Roberts"/>
+        </recipients>
+        <mentions>
+            <mention name="Ms. Wilmer Williamson"/>
+            <mention name="Isaac Abshire PhD"/>
+        </mentions>
+    </message>
+</ns2:messages>

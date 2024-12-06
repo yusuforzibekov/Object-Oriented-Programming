@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4936" from="Jc Bosco" type="SMTP">
+        <heading>Yes. Yes. I'm George. George McFly. I'm your density. I mean, your destiny.</heading>
+        <body>Ad fuga exercitationem sed in ullam. Libero repellat dolorem eum. Nam iure aut pariatur sed iste et. Voluptatem est ipsum sed sunt dicta molestiae ad. Dolores aspernatur incidunt ad nisi natus amet. Ullam nesciunt beatae at consequuntur ut ipsum placeat. Ex quam amet voluptas.</body>
+        <recipients>
+            <recipient name="Whitney Emard"/>
+            <recipient name="Deandre Blanda"/>
+            <recipient name="Rhoda Feest"/>
+            <recipient name="Eilene Dickinson"/>
+            <recipient name="Willie Sawayn"/>
+            <recipient name="Gonzalo Cole"/>
+        </recipients>
+    </message>
+</ns2:messages>

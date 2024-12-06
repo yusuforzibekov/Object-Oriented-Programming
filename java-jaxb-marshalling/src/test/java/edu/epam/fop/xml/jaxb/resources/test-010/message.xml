@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3018" from="Deadra Gusikowski" type="DDS">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Odit voluptas vero odio officiis aut. Architecto fugiat animi. Tempora quasi voluptatem maiores qui eius. Vel dolor voluptate possimus est vitae. Quaerat odit sunt velit quod officia. Et exercitationem earum ab. Voluptatem laborum est dolorum dolore. Voluptatem impedit sapiente magni at.</body>
+        <recipients>
+            <recipient name="Otilia Monahan"/>
+            <recipient name="Mrs. Kandy Dicki"/>
+            <recipient name="Ms. Norris Mueller"/>
+            <recipient name="Richie McLaughlin"/>
+            <recipient name="Vance Reichert"/>
+            <recipient name="Mayme Runolfsdottir"/>
+            <recipient name="Nicky Dibbert"/>
+            <recipient name="Danilo Leannon Sr."/>
+            <recipient name="Isaac Runte"/>
+            <recipient name="Alonzo Lehner"/>
+            <recipient name="Maurice Metz"/>
+            <recipient name="Ben Sanford"/>
+        </recipients>
+        <mentions>
+            <mention name="Celia Grady"/>
+            <mention name="Miss Tracy Carroll"/>
+            <mention name="Gertrudis Shields"/>
+            <mention name="Dan Christiansen"/>
+        </mentions>
+    </message>
+    <message id="7548" from="Chae Morar" type="MMS">
+        <heading>Stella! Another one of these damn kids jumped in front of my car! Come on out here! Help me take him in the house!</heading>
+        <body>Dolores mollitia quos iusto in delectus debitis illo. Eos laudantium voluptatem dicta possimus nemo est aliquid. Incidunt qui ipsam. Adipisci id minima unde consequuntur harum. Dicta temporibus impedit et. Beatae aut nulla aliquid quos maiores sit. Nulla occaecati velit animi assumenda voluptatem perspiciatis aut. Minima magnam velit saepe velit ea et omnis.</body>
+        <recipients>
+            <recipient name="Cory Stiedemann"/>
+            <recipient name="Mrs. Joey Hermann"/>
+            <recipient name="Mrs. Randy Kub"/>
+            <recipient name="Mohammad Welch"/>
+            <recipient name="Tillie Bruen I"/>
+            <recipient name="Ms. Alana Pouros"/>
+            <recipient name="Andres Wyman Sr."/>
+            <recipient name="Clement Schuster"/>
+            <recipient name="Kenya Connelly"/>
+            <recipient name="Horace Moore"/>
+            <recipient name="Bart Donnelly II"/>
+            <recipient name="Benedict Bernier"/>
+            <recipient name="Odis Walker"/>
+            <recipient name="Ayako Pollich MD"/>
+        </recipients>
+        <mentions>
+            <mention name="Jc Turner"/>
+            <mention name="Amos Kuphal"/>
+            <mention name="Justin Windler"/>
+            <mention name="Harrison Ebert"/>
+        </mentions>
+    </message>
+    <message id="4671" from="Ramiro Abshire" type="IRC">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Ipsum nulla accusantium et accusamus deleniti omnis. Sunt quia aut. Architecto ut commodi quae. Cum officia sequi culpa at quia maxime. Ut sapiente amet consequatur hic aut. Rerum cumque quo sunt enim ipsam maxime ipsam. Magnam et numquam.</body>
+        <recipients>
+            <recipient name="Edith Reichel"/>
+            <recipient name="Dorla Williamson"/>
+            <recipient name="Dwayne Cormier"/>
+            <recipient name="Mrs. Enedina McClure"/>
+        </recipients>
+        <mentions>
+            <mention name="Tawana Kshlerin"/>
+            <mention name="Miss Merilyn Frami"/>
+            <mention name="Joanie Johnson"/>
+            <mention name="Glenn Baumbach"/>
+        </mentions>
+    </message>
+</ns2:messages>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5958" from="Filiberto Stroman III" type="SMS">
+        <heading>Marty, don't be such a square. Everybody who's anybody drinks.</heading>
+        <body>Deserunt deleniti laborum omnis reiciendis dignissimos voluptatem ex. Adipisci accusamus nulla et et rerum at voluptas. Dolor et ipsam quam. Optio recusandae vel. Eligendi perspiciatis eius. Accusantium itaque qui. Fugiat debitis et. Culpa eum voluptas et tempore.</body>
+        <recipients>
+            <recipient name="Nana Corwin"/>
+            <recipient name="Bobbie Ankunding"/>
+            <recipient name="Ms. Faustino Brekke"/>
+            <recipient name="Na Hermann I"/>
+            <recipient name="Miss Robbi Dickinson"/>
+            <recipient name="Brandon Torp PhD"/>
+            <recipient name="Edmundo Swift Sr."/>
+            <recipient name="Katerine Beatty"/>
+            <recipient name="Rima Cassin"/>
+            <recipient name="Rosy Bernier"/>
+            <recipient name="Mr. Mica Stehr"/>
+            <recipient name="Melodi Willms"/>
+            <recipient name="Marinda Lueilwitz"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Trey Leannon"/>
+            <mention name="Miss Oren Sipes"/>
+        </mentions>
+    </message>
+    <message id="7112" from="Willie Lehner" type="SMS">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Odit ut sed dolores culpa omnis praesentium. Sit et et id necessitatibus ut libero aut. Sunt deleniti quam beatae reprehenderit. Omnis illum sed totam quia sunt. Omnis sunt exercitationem. Odit at qui dolorum rerum dolores ipsum nulla. Sit earum ratione ratione et sit ipsum est.</body>
+        <recipients>
+            <recipient name="Libby Schimmel"/>
+            <recipient name="Mrs. Maybell Predovic"/>
+            <recipient name="Gerald Douglas"/>
+            <recipient name="Miss Francesco Kuhn"/>
+            <recipient name="Jacques Gleason"/>
+            <recipient name="Ramon Gibson"/>
+            <recipient name="Breana Beahan"/>
+            <recipient name="Mr. Sara Denesik"/>
+            <recipient name="Pattie Hyatt PhD"/>
+            <recipient name="Napoleon Welch Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Nguyet Mann"/>
+            <mention name="Kathleen Schaden"/>
+            <mention name="Avril Rath"/>
+            <mention name="Otha Rolfson DVM"/>
+        </mentions>
+    </message>
+</ns2:messages>

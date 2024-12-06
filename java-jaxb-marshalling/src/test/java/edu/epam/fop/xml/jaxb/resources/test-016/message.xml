@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4642" from="Mr. Jarvis Grimes" type="XMPP">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Ut velit fugit in ipsum. Magnam accusantium voluptatem reiciendis deserunt iste. Accusantium hic aut vel provident rerum laboriosam. Id eaque provident. Ab ex incidunt doloremque molestiae suscipit. Eius aliquam veritatis non sint. Fugiat corporis fugit. Sit vel nisi aut occaecati. Sapiente reiciendis enim.</body>
+        <recipients>
+            <recipient name="Elois Wolf"/>
+            <recipient name="Lupe Farrell"/>
+            <recipient name="Fletcher Olson"/>
+            <recipient name="Theo Jaskolski"/>
+            <recipient name="Rick Fahey"/>
+            <recipient name="Noble Schneider MD"/>
+            <recipient name="Shandra Abernathy"/>
+            <recipient name="Isaiah Goyette"/>
+            <recipient name="Morgan Bernhard DDS"/>
+            <recipient name="Kristina O'Keefe"/>
+            <recipient name="Toby Rolfson DVM"/>
+            <recipient name="Keven Runolfsdottir"/>
+            <recipient name="Miss Bethanie Wiza"/>
+            <recipient name="Melanie Barrows Jr."/>
+            <recipient name="Quentin Oberbrunner IV"/>
+        </recipients>
+        <mentions>
+            <mention name="Daniela Morissette IV"/>
+            <mention name="Malena Jacobi"/>
+        </mentions>
+    </message>
+    <message id="2789" from="Rosaria Wisoky" type="MMS">
+        <heading>Damn! I'm late for school!</heading>
+        <body>Sit quia voluptatem et molestias neque. Ducimus cumque ea provident est qui libero. Eligendi vel laboriosam et non quis et ab. Excepturi officia doloribus nihil illum non pariatur. Esse aliquam dolor. Vero culpa harum ipsum esse voluptate. Ut autem dolore.</body>
+        <recipients>
+            <recipient name="Bo Schroeder"/>
+            <recipient name="Nestor Schaefer PhD"/>
+            <recipient name="Ms. Arline Hickle"/>
+            <recipient name="Keith Metz"/>
+            <recipient name="Frederick McClure"/>
+            <recipient name="Albina Gottlieb V"/>
+            <recipient name="Mr. Akiko O'Connell"/>
+        </recipients>
+    </message>
+    <message id="8788" from="Laurel Hudson" type="SMTP">
+        <heading>I've had enough practical jokes for one evening. Good night, future boy!</heading>
+        <body>Est aut sit. Molestias et nemo sint. Qui sit in molestiae rem. Itaque odit voluptatum. Incidunt nostrum reiciendis quia. Harum in quo aut. Sunt rem architecto omnis debitis et vitae illum.</body>
+        <recipients>
+            <recipient name="Bettina Hayes"/>
+            <recipient name="Estela Miller"/>
+            <recipient name="Mr. Dorcas Pfeffer"/>
+            <recipient name="Ernestine Bailey"/>
+            <recipient name="Delpha Swaniawski"/>
+            <recipient name="Jeramy Jakubowski"/>
+            <recipient name="Guy Heidenreich"/>
+            <recipient name="Rudolph Stehr DVM"/>
+        </recipients>
+    </message>
+    <message id="516" from="Aurea Hackett V" type="XMPP">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Odio sint non omnis est autem. Itaque maiores omnis quidem culpa possimus eligendi eum. Debitis aspernatur dolor officiis non. Magni cumque totam. Eligendi beatae et adipisci. Autem ullam totam consequatur et dolores aut. Amet dolor quam commodi accusantium quibusdam officia maiores.</body>
+        <recipients>
+            <recipient name="Jani Bechtelar"/>
+            <recipient name="Kendal Johnston"/>
+            <recipient name="Kia Bahringer"/>
+            <recipient name="Hilma Williamson"/>
+        </recipients>
+    </message>
+    <message id="7588" from="Michell Upton" type="SMTP">
+        <heading>No wonder your president has to be an actor. He's gotta look good on television.</heading>
+        <body>Itaque quis voluptatem distinctio delectus ipsa occaecati. Vero repellat est sed. Itaque nobis est suscipit sit ut dicta. Fuga totam quo consequuntur quis. Ut voluptatem omnis odio dignissimos at veniam aut. Pariatur qui explicabo itaque sunt voluptas. Soluta qui enim et qui rerum id et. Reprehenderit delectus culpa repudiandae.</body>
+        <recipients>
+            <recipient name="Ms. Dorene Hettinger"/>
+            <recipient name="Tawana Mitchell"/>
+            <recipient name="Arlene Dickinson"/>
+            <recipient name="Christoper Kuhlman"/>
+            <recipient name="Emmett Fay"/>
+            <recipient name="Milan Gaylord"/>
+            <recipient name="Cliff Rolfson"/>
+            <recipient name="Brian Doyle"/>
+            <recipient name="Laurel Deckow"/>
+            <recipient name="Joni Botsford"/>
+        </recipients>
+    </message>
+    <message id="4263" from="Edmundo Batz" type="IRC">
+        <heading>I can't believe you'd loan me your car without telling me it had a blind spot. I could've been killed!</heading>
+        <body>Iusto est facere itaque sapiente id voluptatem molestiae. Porro asperiores aut ut. Consequatur voluptas ut quas vel eos. Consequatur qui ut voluptatem quisquam modi. Quasi sint itaque esse. Error et quibusdam. Enim sit dolores adipisci.</body>
+        <recipients>
+            <recipient name="Kali Baumbach PhD"/>
+            <recipient name="Ms. Eleanor Hudson"/>
+            <recipient name="Dr. Jae Lindgren"/>
+            <recipient name="Myles Nader"/>
+            <recipient name="Mrs. Lauran Blick"/>
+        </recipients>
+    </message>
+</ns2:messages>

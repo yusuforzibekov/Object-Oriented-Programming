@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5788" from="Miss Joselyn Kessler" type="MQTT">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Doloremque facere quam perspiciatis eum nobis. Aliquid assumenda nesciunt aperiam et. Aut illo consequuntur. Sequi architecto asperiores a nam voluptates. Perferendis tempora ullam vitae exercitationem vel. Distinctio harum illo. Officiis iure qui laborum magni eos et temporibus. Asperiores eos ut qui deleniti.</body>
+        <recipients>
+            <recipient name="Luciano Kihn"/>
+            <recipient name="Royce Tremblay"/>
+            <recipient name="Pasquale Bartoletti"/>
+            <recipient name="Lona Stehr DVM"/>
+            <recipient name="Ms. Branda Swift"/>
+            <recipient name="Lynn Gusikowski"/>
+            <recipient name="Macy West"/>
+            <recipient name="Terrence Bailey"/>
+            <recipient name="Dustin Volkman"/>
+            <recipient name="Davina Wolff PhD"/>
+            <recipient name="Mrs. Lelia Luettgen"/>
+            <recipient name="Lilia Ziemann DVM"/>
+            <recipient name="Dr. Omer Macejkovic"/>
+        </recipients>
+    </message>
+</ns2:messages>

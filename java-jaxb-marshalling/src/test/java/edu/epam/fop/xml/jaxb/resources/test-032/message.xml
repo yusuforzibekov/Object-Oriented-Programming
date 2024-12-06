@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4506" from="Ping Murazik" type="SMS">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Placeat ut occaecati eum possimus ipsum cum ab. Officia consequatur modi. Debitis id impedit. Soluta tenetur non numquam. Quasi eos rem est quas. Vitae saepe iusto pariatur. Incidunt saepe earum ipsam.</body>
+        <recipients>
+            <recipient name="Tyler Walter"/>
+            <recipient name="Erline Cormier"/>
+            <recipient name="Concha Carter"/>
+            <recipient name="Miss Valeria Terry"/>
+            <recipient name="Joe Harber"/>
+            <recipient name="Tabitha McDermott"/>
+            <recipient name="Francis Armstrong"/>
+            <recipient name="Mohamed Pfeffer"/>
+            <recipient name="Lucina Howe"/>
+            <recipient name="Darell Cummerata"/>
+            <recipient name="Pamelia Muller Sr."/>
+            <recipient name="Mamie Medhurst"/>
+            <recipient name="Isaac Casper DDS"/>
+            <recipient name="Mitchell Thompson"/>
+            <recipient name="Malia Mante"/>
+        </recipients>
+        <mentions>
+            <mention name="Carry Wolf"/>
+            <mention name="Mr. Chanda Thiel"/>
+            <mention name="Jerome Ritchie"/>
+            <mention name="Charlie Wilkinson IV"/>
+        </mentions>
+    </message>
+    <message id="2671" from="Kathrine Hickle" type="SMS">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Aliquam occaecati blanditiis fugiat. Est necessitatibus et inventore necessitatibus deleniti est veritatis. Placeat recusandae amet qui aliquid quia dignissimos. Sunt inventore cumque. Doloremque ratione eos minus quasi molestias. Ut odio et harum facilis. Vel quidem molestiae. Omnis est omnis nesciunt maiores.</body>
+        <recipients>
+            <recipient name="Jacqui Towne"/>
+            <recipient name="Mr. Normand Boyle"/>
+            <recipient name="Emogene Aufderhar"/>
+            <recipient name="Andre Batz"/>
+            <recipient name="Chet Schimmel"/>
+            <recipient name="Darryl Barrows"/>
+            <recipient name="Alton Boehm"/>
+            <recipient name="Bertha Rolfson"/>
+            <recipient name="Modesto Wilkinson PhD"/>
+            <recipient name="Ms. Tori Lang"/>
+            <recipient name="Vern Auer"/>
+        </recipients>
+    </message>
+    <message id="4119" from="Coy Bechtelar" type="SMS">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Voluptas iure recusandae nesciunt nemo. Dolore dolor cum omnis consequatur eligendi ut officiis. Ea optio praesentium et. Alias necessitatibus placeat sapiente nulla. Quibusdam magnam vel eius. Est ullam cumque. Nihil aperiam repellat animi amet. Qui odit et.</body>
+        <recipients>
+            <recipient name="Merlin Paucek"/>
+            <recipient name="Berry Oberbrunner"/>
+            <recipient name="Antonio Dickinson"/>
+            <recipient name="Linwood Crona"/>
+            <recipient name="Refugio Kub"/>
+            <recipient name="Mrs. Edythe Hettinger"/>
+            <recipient name="Yanira Breitenberg"/>
+            <recipient name="Dawna Vandervort"/>
+            <recipient name="Ms. Benny Berge"/>
+            <recipient name="Luciano Pfannerstill"/>
+            <recipient name="Kenyatta Schroeder MD"/>
+            <recipient name="Iris Hegmann"/>
+            <recipient name="Reggie Gislason"/>
+            <recipient name="Eugenio Ziemann"/>
+        </recipients>
+        <mentions>
+            <mention name="Leslie Hirthe"/>
+            <mention name="Kasha Hansen MD"/>
+        </mentions>
+    </message>
+</ns2:messages>

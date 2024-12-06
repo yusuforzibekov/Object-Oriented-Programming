@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4130" from="Casey Zemlak" type="SMTP">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Sequi illum soluta nemo occaecati mollitia. Tempora nihil rerum in omnis quibusdam laudantium laborum. Incidunt minus iusto dolores omnis suscipit et. Maiores facilis ratione nam quis deleniti molestiae optio. Enim voluptates tenetur. Quo consequuntur veniam dolores distinctio. Molestiae explicabo maxime.</body>
+        <recipients>
+            <recipient name="Conrad Witting"/>
+            <recipient name="Billy Schroeder"/>
+            <recipient name="Klara Bins"/>
+            <recipient name="Burl Hackett"/>
+            <recipient name="Shanika Smitham"/>
+            <recipient name="Leisa Pollich"/>
+            <recipient name="Despina Schulist"/>
+            <recipient name="Mr. Ciara Zulauf"/>
+            <recipient name="Sheldon Carroll"/>
+            <recipient name="Abram Breitenberg"/>
+            <recipient name="Mr. Lilliana Lowe"/>
+            <recipient name="Terrance O'Conner"/>
+            <recipient name="Victor Jast"/>
+            <recipient name="Dr. Santo Reichel"/>
+            <recipient name="Lakisha Klein"/>
+        </recipients>
+    </message>
+    <message id="6911" from="Winston Ritchie DDS" type="SMTP">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Et dicta non doloribus sint harum est. Illo hic natus voluptas aut illum et. Dolores distinctio placeat ipsa. Odit veritatis ipsa distinctio tenetur consequatur. Ea animi aut consequatur quis laboriosam quia. Accusamus autem ut eveniet nihil et. Natus ut cupiditate esse. Id delectus dolore.</body>
+        <recipients>
+            <recipient name="Rosio Trantow DVM"/>
+            <recipient name="Darron Stanton"/>
+            <recipient name="Ryann Kuhic"/>
+            <recipient name="Augustus MacGyver"/>
+            <recipient name="Domenic Jast"/>
+        </recipients>
+    </message>
+</ns2:messages>

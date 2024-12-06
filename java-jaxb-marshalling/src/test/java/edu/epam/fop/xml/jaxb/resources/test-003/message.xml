@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5417" from="Sadye Stiedemann" type="SMTP">
+        <heading>It's gonna be really hard waiting 30 years before I can talk to you about everything that's happened in the past few days. I'm really gonna miss you, Marty.</heading>
+        <body>Ea commodi nisi et voluptatem natus. Blanditiis molestiae accusamus aut possimus molestiae eos. Dignissimos deleniti est laudantium sit rerum id. Accusantium voluptatem quia qui sequi. Aperiam fugit minus consequatur labore ipsum. Fugit est ipsa rerum. Sed quo iure non facilis aliquam.</body>
+        <recipients>
+            <recipient name="Merlyn Wisozk"/>
+            <recipient name="Maryann Price"/>
+            <recipient name="Deanna Kub"/>
+            <recipient name="Mel Brakus"/>
+            <recipient name="Kanesha Runolfsson"/>
+            <recipient name="Lourdes Morissette"/>
+            <recipient name="Lindsay Murphy DDS"/>
+            <recipient name="Teressa O'Conner II"/>
+            <recipient name="Sally Hessel"/>
+            <recipient name="Roderick Trantow"/>
+            <recipient name="Yoshie Greenfelder"/>
+        </recipients>
+    </message>
+</ns2:messages>

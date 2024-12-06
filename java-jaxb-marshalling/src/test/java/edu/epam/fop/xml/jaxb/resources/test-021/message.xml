@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1736" from="Rayford Collier Jr." type="RCS">
+        <heading>Great Scott!</heading>
+        <body>Libero accusantium et consequatur illum sunt ipsam ut. Optio deleniti minus vitae. Adipisci harum unde quam quam. Reiciendis voluptate voluptatem aut et modi est est. Aut aliquam voluptas nulla error voluptates voluptatem quod. Et officiis velit aut iste rerum et est. Repudiandae ut est. Et facere ea et.</body>
+        <recipients>
+            <recipient name="Stanton Volkman III"/>
+            <recipient name="Heidi Cummerata V"/>
+            <recipient name="Mallie Bayer"/>
+            <recipient name="Camila Kessler"/>
+            <recipient name="Lupe O'Conner"/>
+        </recipients>
+    </message>
+    <message id="9843" from="Bob Kreiger" type="SMTP">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Nostrum ipsa voluptatem ipsam provident impedit. Labore impedit sint totam laudantium a aut quod. Velit atque maiores dolor. Reiciendis fuga minus illo. Consectetur nisi itaque adipisci cumque nulla qui. Nemo autem et odio velit aut porro. Placeat molestiae est qui ab. Ex libero non aut sunt at.</body>
+        <recipients>
+            <recipient name="Mrs. Anika Upton"/>
+            <recipient name="Courtney Jacobs"/>
+            <recipient name="Shirlee Maggio"/>
+            <recipient name="Shaquana Fritsch"/>
+            <recipient name="Virgil Weissnat"/>
+        </recipients>
+    </message>
+    <message id="4505" from="Jorge Bednar" type="MQTT">
+        <heading>Stand tall, boy. Have some respect for yourself. Don't you know, if you let people walk over you now, they'll be walking over you for the rest of your life. Look at me. You think I'm gonna spend the rest of my life in this slop house?</heading>
+        <body>Non aut eveniet exercitationem sit sit dolores dolores. Occaecati voluptatum similique unde quaerat vero enim. Voluptas quam velit. Distinctio nam est omnis assumenda qui est dicta. Eum repudiandae esse beatae rerum facilis. Fugiat sit in ipsa modi sed commodi. Nemo et aut quam. Unde qui consequatur praesentium quis.</body>
+        <recipients>
+            <recipient name="Babette Berge DVM"/>
+            <recipient name="Mr. Amos Funk"/>
+            <recipient name="Mrs. Lemuel Johnston"/>
+            <recipient name="Detra Armstrong"/>
+            <recipient name="Dania Marvin Jr."/>
+        </recipients>
+    </message>
+    <message id="7590" from="Agustin Thompson" type="IRC">
+        <heading>No wonder your president has to be an actor. He's gotta look good on television.</heading>
+        <body>Eveniet autem dolores consequatur. Qui maxime labore fuga exercitationem voluptate saepe corporis. Tempora repellat molestiae et neque tempore. Voluptas voluptatem quibusdam ab. Quam et quia aut et est. Esse officiis eos. Fugit hic enim dolorem. Aperiam voluptatibus autem dolorum inventore atque dolor.</body>
+        <recipients>
+            <recipient name="Tess Mohr DDS"/>
+            <recipient name="Patrice Dietrich"/>
+            <recipient name="Mary Strosin"/>
+            <recipient name="Rico Lehner III"/>
+            <recipient name="Jody Dare Jr."/>
+            <recipient name="Robin Hudson"/>
+            <recipient name="Mr. Jewell Hane"/>
+            <recipient name="Gerda Wisozk"/>
+            <recipient name="Julene McClure DDS"/>
+            <recipient name="Akilah Shanahan DDS"/>
+            <recipient name="Herman Streich PhD"/>
+        </recipients>
+    </message>
+    <message id="1219" from="Magaret Walter" type="SMTP">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Delectus nobis suscipit fuga qui voluptatem. Nulla aut fugit. Reprehenderit ut quia consectetur similique. Commodi aperiam autem ipsam consequatur excepturi. Ad quibusdam quibusdam iste. Et nulla aut molestiae nihil dignissimos est. Deleniti excepturi facilis tenetur facere.</body>
+        <recipients>
+            <recipient name="Mrs. Dorothy Rowe"/>
+            <recipient name="Ms. Haydee O'Reilly"/>
+            <recipient name="Mr. Jennie O'Keefe"/>
+            <recipient name="Andres Bode"/>
+        </recipients>
+    </message>
+    <message id="5543" from="Darrick Leannon" type="MQTT">
+        <heading>The appropriate question is, 'when the hell are they?' You see, Einstein has just become the world's first time traveler! I sent him into the future. One minute into the future to be exact. And at precisely 1:21 a.m. and zero seconds, we shall catch up with him and the time machine.</heading>
+        <body>Reiciendis dignissimos maxime autem in. Adipisci inventore et architecto et. Qui dolores magnam qui quibusdam. Magnam harum odit nam ea ut quasi itaque. Non in sunt maiores et vitae non. Aperiam sed architecto quidem. Maxime sed iusto labore ut aliquam sit veritatis.</body>
+        <recipients>
+            <recipient name="Artie Schneider II"/>
+            <recipient name="Zane Feest"/>
+            <recipient name="Miss Erasmo Goodwin"/>
+            <recipient name="Darius Sipes"/>
+            <recipient name="Shante King II"/>
+            <recipient name="Cathy Trantow"/>
+            <recipient name="Kyle Gorczany"/>
+            <recipient name="Jose Kling"/>
+        </recipients>
+    </message>
+</ns2:messages>

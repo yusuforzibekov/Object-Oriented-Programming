@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3681" from="Dr. Jamie Feest" type="MMS">
+        <heading>Yes. Yes. I'm George. George McFly. I'm your density. I mean, your destiny.</heading>
+        <body>Nisi vel molestiae quae laudantium corporis quam. Aperiam esse excepturi eius. Iusto a vitae voluptatibus voluptas aut vitae. Non est omnis. Ea reiciendis magnam molestias accusantium illo. Consequuntur assumenda consequuntur nisi non dolores excepturi. Rerum nesciunt quidem ducimus.</body>
+        <recipients>
+            <recipient name="Debbra Wiegand"/>
+            <recipient name="Kory Feest"/>
+            <recipient name="Taylor Swift"/>
+            <recipient name="Donovan Denesik"/>
+            <recipient name="Wilton Dietrich"/>
+            <recipient name="Rogelio Fritsch"/>
+            <recipient name="Mr. Gigi Gislason"/>
+            <recipient name="Tyrell Schiller"/>
+            <recipient name="Bryon Zulauf"/>
+            <recipient name="Tesha Senger"/>
+            <recipient name="Marcus Runolfsdottir"/>
+            <recipient name="Theresia Johnson"/>
+            <recipient name="Terri Konopelski DDS"/>
+            <recipient name="Lasonya Schmidt"/>
+            <recipient name="Travis Dare"/>
+        </recipients>
+        <mentions>
+            <mention name="Mario Runolfsdottir DDS"/>
+        </mentions>
+    </message>
+    <message id="2457" from="Miss Annis Hegmann" type="DDS">
+        <heading>No, no, no, no, no, this sucker's electrical, but I need a nuclear reaction to generate the 1.21 gigawatts of electricity I need.</heading>
+        <body>Enim veritatis quia eum accusantium iste amet. Sed illum et soluta magnam quas veritatis autem. Ipsam rem officiis aut. Quia voluptate numquam corporis id repellendus incidunt. Quas repudiandae numquam repellat aut quos sit beatae. Voluptas recusandae sed. Corporis aperiam officiis distinctio repudiandae eum autem sint.</body>
+        <recipients>
+            <recipient name="Nichelle Crona"/>
+            <recipient name="Ms. Marian Reichert"/>
+            <recipient name="Emilia Donnelly"/>
+            <recipient name="Brad Bayer III"/>
+            <recipient name="Lynn Beahan III"/>
+            <recipient name="Leandro Rath"/>
+            <recipient name="Mrs. Cody Kozey"/>
+            <recipient name="Reinaldo Harber"/>
+            <recipient name="Mrs. Marine Hane"/>
+            <recipient name="Cindi Anderson"/>
+            <recipient name="Russell Trantow"/>
+            <recipient name="Spring Hauck"/>
+            <recipient name="Elvin Gaylord"/>
+        </recipients>
+        <mentions>
+            <mention name="Adena Haley"/>
+            <mention name="Dwayne Bahringer"/>
+        </mentions>
+    </message>
+    <message id="825" from="Ms. Harmony Carter" type="MMS">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Voluptas eum amet aut ducimus quasi voluptas voluptate. Ea esse omnis nesciunt. Nihil voluptatibus tenetur quaerat. Ullam possimus cupiditate. Dicta vitae ut reprehenderit excepturi et. Et magni ut. Velit ipsa unde fugiat. Et eum corrupti. Nostrum et et.</body>
+        <recipients>
+            <recipient name="Aurora Legros"/>
+            <recipient name="Amber King"/>
+            <recipient name="Carmelina Schinner"/>
+            <recipient name="Miss Eddy Adams"/>
+            <recipient name="Elias Gottlieb"/>
+            <recipient name="Selina Little"/>
+            <recipient name="Marcelo Blanda"/>
+            <recipient name="Theresa Schneider"/>
+            <recipient name="Dee Bailey"/>
+            <recipient name="Kym Rosenbaum"/>
+            <recipient name="Hung Jones"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Mirella Gorczany"/>
+        </mentions>
+    </message>
+</ns2:messages>
