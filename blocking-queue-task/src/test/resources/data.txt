@@ -1,0 +1,33 @@
+Marcus, Alina and me in DAAD Autumn School 2021 "Lessons in Biomedicine Learnt from Nanotechnology and Artificial Intelligence" before my speech 🥰🥰🥰 #daad #professors
+
+E' semplicemente geniale aver ideato questo modo di comporre le lettere dell'afabeto.
+   Anche a livello simbolico questa forma di comunicazione è in totale sintonia rispetto al suo contenuto, perchè evidenzia l'importanza di essere parte integrante di una moltitudine che si muove all'unisono.
+Bravissimi !!!
+
+Gathering up and cleaning the river of this community!
+
+Hello everyone, I have a question. I'd like to use the Whisper API to transcribe approximately 2 hours of a conference speech from an mp4 video into an srt subtitle file. I have a few questions:
+Do I need to convert the mp4 file into wav or mp3 format first?
+It seems that the Whisper API has a file size limit of 25MB per processing. If I split the video into chunks, the resulting srt file might have incorrect timecodes. How should I handle this? Thank you.
+
+Try Microsoft Clipchamp. Gives acces to free stock Fotos and videos. Supports Text to Video. And Text to speach. I have acces to a preview. And do not know, wheather this version is meanwhile delivered through the Windows Store.
+
+Don't be embarrassed of your situation. Half of people are covering up the same situation with filters and smile, make a plan, cut off distraction, Stay focused and execute consistently you'll make it. Contact Mr Ray Russell
+
+We're about to launch an AI related blog. We will use Gleam service for contests to build up the momentum on social media. 
+   We decided to give away premium versions of AI tools/services like ChatGPT Plus, Midjourney, or the equivalent in cash.
+Can you help us brainstorm other reward ideas? What would get you excited?   What would you like to receive as a reward for sharing a few blog posts on social media, subscribing to a newsletter or a YouTube channel?
+Please keep in mind our budget is limited, we don't afford to give away Lambos and Ferraris 😁
+Thank you in advance for any ideas you might have!! Cheers! 💥
+
+is anyone here actually using Chatgpt to make money or recommend a good custom bot builder with knowledgebase? I created my landing pages with Wordpress and looking to integrate AI in it, currently browsing BotB9 and BotPress, but unsure. Looking to see if anyone has experience implementing similar
+
+What are you ultimately looking for? Or what will give you confidence that you have the correct one?
+
+Join the Webinar “Using AI to build an AI Java app https://www.facebook.com/events/862261968957837/?__cft__[0]=AZXDMQ7BD9xcJVCljttPU1JMCvVl5oNI5MHAjzAjhQoTL8dopAMrqB530DQmw5XqZUsDpa1vMTDj3EfGR4RtkPrMmDQFfWL8rSPF-GvfvW8m0zg9ZzX9KsxYduIsSwIE3TUYzx6NC24YEcydYaIUvfaRrBDnM5ttUCrOA-HAorSFOkYI6mjjGk&__tn__=-UK-R” with Brian Benz
+🤩 Take a deep dive into how to build a Spring Boot codebase that uses OpenAI using GitHub Copilot and OpenAI to improve the experience of building and updating the application.
+⚡ The session is 99 percent coding demos, and all source code will be available at the session.
+
+Get ready to witness AI innovation in action! Join our webinar, "LLMs in Action:    Transforming Brand Evaluation and Enterprise Search". Explore how LLMs are reshaping brand evaluation and enterprise search while uncovering their hidden risks.
+Reserve your spot now and be a part of this revolutionary journey!
+https://bit.ly/47TvJbW
