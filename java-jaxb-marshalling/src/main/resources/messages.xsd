@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://www.fop.epam.edu/messages"
+  xmlns:msg="http://www.fop.epam.edu/messages">
+
+  <element name="messages">
+    <complexType>
+      <sequence>
+        <element name="message" type="msg:Message" maxOccurs="unbounded" />
+      </sequence>
+    </complexType>
+  </element>
+
+  <simpleType name="MessageType">
+    <restriction base="string">
+      <enumeration value="SMS"/>
+      <enumeration value="SMTP"/>
+      <enumeration value="MMS"/>
+      <enumeration value="MQTT"/>
+      <enumeration value="AMQP"/>
+      <enumeration value="DDS"/>
+      <enumeration value="XMPP"/>
+      <enumeration value="RCS"/>
+      <enumeration value="IRC"/>
+    </restriction>
+  </simpleType>
+
+  <complexType name="Person">
+    <attribute name="name" type="string"/>
+  </complexType>
+
+  <complexType name="Message">
+    <sequence>
+      <element name="heading" type="string" />
+      <element name="body" type="string" />
+      <element name="recipients">
+        <complexType>
+          <sequence>
+            <element name="recipient" type="msg:Person" maxOccurs="unbounded"/>
+          </sequence>
+        </complexType>
+      </element>
+      <element name="mentions" minOccurs="0">
+        <complexType>
+          <sequence>
+            <element name="mention" type="msg:Person" maxOccurs="unbounded"/>
+          </sequence>
+        </complexType>
+      </element>
+    </sequence>
+    <attribute name="id" type="int" use="required" />
+    <attribute name="from" type="string" use="required"/>
+    <attribute name="type" type="msg:MessageType" use="required"/>
+  </complexType>
+
+</schema>
